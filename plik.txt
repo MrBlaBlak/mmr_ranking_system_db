@@ -1,40 +1,32 @@
-Alex 568.0 Monarch Ion 2 0 1100000000
-Daire 568.0 Tone Ion 2 0 1100000000
-Smurf 558.5 ?? ?? 0 0 0
-Wraith 564.5 Ion Tone 3 2 111000000
-M-kon 560.0 Northstar Monarch 0 0 0
-Woody 560.5 Ion Tone 2 2 110000000
-Stinky 538.0 Legion Ronin 6 15 10011000
-Alis 539.0 Ion Northstar 4 6 1100001010
-Sora 544.5 Ion Tone 6 6 1100110100
-Ace 546.0 Ion Northstar 8 2 1101111101
-Mopster 553.0 Ronin Monarch 5 5 1010101010
-Tt 552.5 Northstar Monarch 9 8 1001001011
-Nova 556.0 Tone Ronin 6 4 1101011001
-Hero 556.0 Monarch Ion 5 5 101101100
-Wagon 558.5 Ion Tone 5 10 1000100100
-Burger 559.0 Monarch Legion 6 7 10011011
-Alvin 559.5 Ion Tone 4 6 10101111
-Ehkho 559.5 Tone Northstar 5 10 111000100
-Dragon 560.5 Tone Ronin 8 9 110110100
-Glass 560.5 Northstar Monarch 7 5 1011000111
-Decep 562.0 Monarch Ion 2 8 10000100
-Tark 562.0 Ion Legion 6 9 100100011
-Panda 566.0 Ion Monarch 6 4 111101100
-Sway 568.0 Northstar Ion 5 5 1010101010
-Slime 571.5 Northstar Ion 4 8 10010110
-Bobby 574.0 Ronin Monarch 14 8 110011101
-Eppixx 579.0 Northstar Tone 9 1 1111111011
-Timo 580.0 Northstar Legion 11 13 10011000
-Haboo 580.5 Ion Tone 5 5 1010100110
-Grim 588.5 Ronin Ion 6 7 1100011010
-Pano 590.0 Tone Ion 5 7 11011100
-Elytic 591.0 Ronin Tone 10 14 1100100
-Diddy 593.0 Tone Monarch 8 2 1110111110
-Zto 596.5 Northstar Tone 7 6 1100010011
-Reg 600.0 Ion Monarch 5 5 1110101
-Blak 603.5 Ronin Ion 15 6 1110011011
-Squishy 605.0 Tone Ion 8 5 10101101
-Stn 608.0 Ion Tone 7 6 1100010011
-Ethereal 609.0 he_plays every_titan 10 4 110011111
-Suddi 617.0 Ion Monarch 8 8 1110010010
+Suddi 630.6 Ion Monarch 145 139 1111011111 EU1
+Zery 612.6 Ronin Ion 131 102 110000010 EU2
+Stn 611.8 Ion Tone 125 124 1010101010 NY1
+Foy 610.5 Monarch Tone 54 29 1001101100 NY2
+Timo 609.5 Northstar Ion 198 188 111110010 EU2
+Becket 608.9 Ion Monarch 140 111 1000001111 EU3
+Nookie 608.2 Ion Tone 101 84 111001001 EU4
+Haboo 607.5 Tone Monarch 70 59 111100000 NY4
+Squishy 607.4 Tone Ion 49 38 1011100001 EU1
+Elytic 606.0 Ronin Tone 186 193 11001001 EU2
+Diddy 602.5 Monarch Tone 136 141 1011101101 NY5
+Blak 601.1 Ronin Ion 244 243 1011100111 EU2
+Grim 598.8 Ronin Ion 53 63 110101110 NY6
+M-kon 597.7 Northstar Monarch 32 24 111101001 EU2
+Zim 597.6 Northstar Ion 32 40 111011001 NY5
+Zto 596.3 Northstar Tone 45 48 100010100 NY1
+Bobby 592.6 Ronin Monarch 119 104 100000001 NY4
+Naicrez 589.9 Monarch ? 53 40 111110000 EU2
+Toxic 588.6 Tone - 70 83 1000001111 EU3
+Eppixx 588.5 Ion Northstar 15 10 111000010 EU1
+Cylas 588.3 Northstar Tone 35 42 10110011 EU1
+Slime 585.8 Northstar Ion 36 40 101101001 NY5
+Sora 584.6 Northstar Ion 27 23 1011110110 NY1
+Alex 584.2 Monarch Ion 72 77 101010001 EU2
+Ronin 583.7 Northstar Monarch 81 82 11011100 EU1
+Mitter 582.3 Ion Monarch 45 43 1111111000 EU2
+Lightman 580.8 All Titans 13 9 11010110 NY1
+Titan 577.9 Northstar Ion 18 23 1001010000 NY3
+Uphill 577.6 Northstar Monarch 183 179 1101010 EU4
+Tark 575.6 Legion Ion 53 50 1010101011 NY6
+Skitts 574.1 Tone ? 11 9 1011101001 EU1
+Daire 570.1 Tone Ion 37 34 1010101 EU3

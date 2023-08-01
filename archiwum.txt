@@ -1,0 +1,231 @@
+10-03-2022 14:09:01 Uphill Blak Elytic Becket Zery   || 1:0 ||  Timo Nookie Diddy Ruski Suddi 
+10-03-2022 14:11:59 Nookie Blak Elytic Ehkho Zery   || 1:0 ||  Timo Tt Diddy Becket Suddi 
+10-03-2022 14:18:58 Nookie Blak Elytic Ehkho Uphill   || 1:0 ||  Timo Tt Diddy Becket Suddi 
+10-03-2022 14:21:06 Nookie Blak Elytic Ehkho Uphill   || 1:2 ||  Timo Tt Diddy Becket Suddi 
+10-03-2022 15:17:54 Timo Ruski Zery Stn Blak   || 1:0 ||  Uphill Elytic Diddy Becket Suddi 
+10-03-2022 15:19:59 Suddi Timo Cylas Ruski Blak   || 1:0 ||  Uphill Elytic Diddy Becket Stn 
+10-03-2022 15:22:35 Alex Bobby Uphill Zery Blak   || 1:0 ||  Suddi Elytic Timo Becket Tark 
+10-03-2022 15:24:12 Alex Bobby Grim Ehkho Blak   || 0:1 ||  Suddi Elytic Timo Becket Tark 
+10-03-2022 15:26:32 Timo Elytic Grim Ehkho Blak   || 0:2 ||  Suddi Alex Bobby Zto Tark 
+10-03-2022 15:28:37 Timo Alex Suddi Ehkho Blak   || 1:0 ||  Elytic Uphill Bobby Zto Nookie 
+10-03-2022 15:30:11 Ruski Slime Suddi Ehkho Blak   || 0:2 ||  Elytic Uphill Diddy Ethereal Timo 
+10-03-2022 16:08:00 Elytic Bobby Uphill Pano Blak   || 2:0 ||  Alex Ruski Diddy Ethereal Suddi 
+10-03-2022 16:10:56 Elytic Bobby Uphill Hero Blak   || 2:0 ||  Tark Timo Nookie Panda Suddi 
+10-03-2022 16:12:56 Elytic Nookie Uphill Hero Suddi   || 0:1 ||  Tark Timo Bobby Panda Blak
+13-03-2022 20:53:51 Stn Timo Diddy Uphill Alex   || 1:2 ||  Elytic Blak M-kon Zery Zim 
+13-03-2022 21:38:46 Elytic Pano Diddy Zim Alex   || 1:1 ||  Stn Blak Ronin Ruski Zery 
+13-03-2022 22:08:13 Stn Elytic Ronin Uphill Zim   || 2:0 ||  Pano Blak Diddy Ruski Alex 
+26-03-2022 00:32:59 Blak Timo Diddy Elytic Zto   || 3:2 ||  Ethereal Stn Pano Bobby Alex 
+26-03-2022 00:57:22 Timo Diddy Ethereal Stn Zto   || 0:1 ||  Blak Pano Elytic Bobby Uphill 
+26-03-2022 01:25:20 Blak Timo Stn Pano Wraith   || 0:1 ||  Diddy Ethereal Elytic Bobby Uphill 
+29-04-2022 22:03:31 Blak Bobby Stinky Becket Uphill   || 1:2 ||  Pano Elytic Timo Zery Lightman 
+11-05-2022 22:40:10 Hero Zery Grim Elytic Bobby   || 1:0 ||  Blak Suddi Ronin Uphill Stinky 
+11-05-2022 22:40:47 Suddi Hero Zery Elytic Stinky   || 2:2 ||  Blak Ronin Grim Bobby Uphill 
+12-05-2022 21:59:31 Suddi Zery Timo Bobby Becket   || 2:0 ||  Blak Dragon Alex Elytic Uphill 
+12-05-2022 22:32:29 Suddi Zery Alex Bobby Uphill   || 0:2 ||  Blak Dragon Timo Elytic Becket 
+12-05-2022 23:06:16 Suddi Dragon Elytic Uphill Becket   || 2:0 ||  Blak Hero Timo Stinky Bobby 
+15-05-2022 12:27:02 Ronin Stn Zery Diddy Timo   || 1:0 ||  Suddi Elytic Bobby Nookie Uphill 
+15-05-2022 12:36:28 Suddi Nookie Uphill Elytic Bobby   || 0:1 ||  Timo Ronin Stn Diddy Zery 
+15-05-2022 15:06:53 Suddi Nookie Uphill Elytic Timo   || 1:1 ||  Squishy Ronin Bobby Diddy Pano 
+19-05-2022 22:07:32 Alex Nookie Elytic Bobby Ronin   || 2:1 ||  Blak Daire Hero Timo Uphill 
+20-05-2022 21:25:00 Pano Ruski Elytic Bobby Ronin   || 0:1 ||  Blak Zery Timo Nookie Uphill 
+20-05-2022 21:47:56 Pano Ethereal Timo Bobby Uphill   || 1:0 ||  Blak Zery Nookie Elytic Ronin 
+20-05-2022 22:06:06 Uphill Pano Ethereal Bobby Timo   || 0:1 ||  Nookie Elytic Becket Blak Ronin 
+20-05-2022 22:23:10 Uphill Pano Ethereal Bobby Timo   || 1:0 ||  Nookie Elytic Becket Blak Ronin 
+21-05-2022 21:22:09 Blak Pano Zery Nookie Ronin   || 2:0 ||  Cylas Timo Diddy Becket Uphill 
+31-05-2022 22:28:53 Zery Nookie Elytic Stinky Ronin   || 2:1 ||  Alex Dragon Pano Timo Uphill 
+01-06-2022 13:39:40 Zery Pano Dragon Alex Timo   || 1:0 ||  Uphill Elytic Stinky Nookie Ronin 
+01-06-2022 23:30:20 Blak Dragon Lightman Nookie Uphill   || 1:0 ||  Zery Timo Bobby Stinky Ronin 
+01-06-2022 23:31:03 Blak Dragon Pano Zery Stinky   || 0:0 ||  Timo Bobby Nookie Uphill Ronin 
+01-06-2022 23:33:12 Blak Pano Nookie Stinky Ronin   || 2:2 ||  Uphill Bobby Timo Dragon Zery 
+03-06-2022 23:04:21 Blak Zery Bobby Uphill Ronin   || 1:1 ||  Becket Pano Timo Elytic Stinky 
+03-06-2022 23:04:44 Becket Pano Elytic Uphill Ronin   || 0:0 ||  Blak Nookie Timo Bobby Stinky 
+03-06-2022 23:05:41 Blak Ronin Nookie Bobby Uphill   || 1:1 ||  Pano Timo Elytic Stinky Becket 
+03-06-2022 23:24:19 Pano Timo Dragon Elytic Stinky   || 0:1 ||  Blak Becket Nookie Uphill Ronin 
+04-06-2022 00:15:17 Pano Timo Elytic Stinky Ronin   || 1:2 ||  Blak Becket Nookie Dragon Uphill 
+04-06-2022 00:58:45 Grim Pano Timo Uphill Bobby   || 1:0 ||  Blak Nookie Dragon Elytic Stinky 
+04-06-2022 21:28:42 Stn Diddy Becket Zery Ronin   || 2:0 ||  Blak Timo Dragon Elytic Uphill 
+12-06-2022 00:09:25 Stn Diddy Becket Pano Zery   || 1:3 ||  Blak Bobby Elytic Uphill Nookie 
+12-06-2022 00:36:54 Stn Slime Elytic Zery Nookie   || 2:0 ||  Blak Diddy Pano Bobby Uphill 
+12-06-2022 01:10:02 Slime Pano Bobby Elytic Uphill   || 0:1 ||  Blak Timo Diddy Grim Nookie 
+21-06-2022 00:05:43 Timo Diddy Slime Grim Dragon   || 0:2 ||  Blak Zery Alex Elytic Uphill 
+21-06-2022 00:06:24 Blak Diddy Slime Uphill Dragon   || 0:1 ||  Timo Zery Alex Elytic Grim 
+21-06-2022 00:07:10 Timo Diddy Slime Grim Dragon   || 0:2 ||  Blak Zery Alex Elytic Uphill 
+21-06-2022 00:07:36 Blak Diddy Slime Uphill Dragon   || 1:1 ||  Timo Zery Alex Elytic Grim 
+21-06-2022 00:17:14 Blak Becket Zto Grim Timo   || 2:1 ||  Dragon Elytic Bobby Nookie Diddy 
+21-06-2022 00:19:14 Blak Bobby Elytic Uphill Timo   || 0:2 ||  Dragon Grim Becket Nookie Diddy 
+04-07-2022 22:54:55 Diddy Hero Ronin Stn Dragon   || 0:2 ||  Blak Timo Bobby Becket Uphill 
+04-07-2022 23:18:01 Blak Timo Becket Uphill Bobby   || 1:0 ||  Ronin Stn Diddy Zery Dragon 
+10-07-2022 23:10:01 Blak Zery Slime Ronin Dragon   || 2:1 ||  Timo Stinky Nookie Becket Uphill 
+10-07-2022 23:43:53 Blak Becket Stinky Diddy Uphill   || 1:0 ||  Zto Slime Ronin Nookie Dragon 
+11-07-2022 00:00:47 Slime Ronin Nookie Diddy Uphill   || 1:0 ||  Blak Alex Stinky Zto Dragon 
+10-09-2022 08:03:11 Stn Haboo Becket Diddy Hero   || 2:3 ||  Zery Elytic Timo Suddi Daire 
+18-09-2022 15:43:44 Becket Stn Uphill Alex Diddy   || 2:1 ||  Timo Zery Elytic Zto Dragon
+18-09-2022 23:02:25 Becket Ronin Uphill Zery Diddy   || 1:1 ||  Timo Stn Nookie Foy Dragon 
+23-09-2022 22:43:28 Grim Blak Ronin Cylas Nookie   || 0:1 ||  Zto Uphill Foy Zery Bobby 
+23-09-2022 23:07:19 Grim Foy Timo Bobby Nookie   || 1:0 ||  Zto Uphill Blak Ronin Cylas 
+23-09-2022 23:31:59 Grim Uphill Foy Bobby Nookie   || 1:0 ||  Elytic Blak Ronin Timo Cylas 
+23-09-2022 23:58:08 Grim Blak Ronin Cylas Nookie   || 0:1 ||  Zto Uphill Foy Zery Bobby 
+23-09-2022 23:59:59 Grim Foy Timo Bobby Nookie   || 1:0 ||  Zto Uphill Blak Ronin Cylas 
+24-09-2022 00:01:29 Grim Uphill Foy Bobby Nookie   || 1:0 ||  Elytic Blak Ronin Timo Cylas 
+28-09-2022 22:45:32 Uphill Bobby Timo Zery Becket   || 2:0 ||  Elytic Diddy Zto Stinky Blak 
+02-10-2022 23:34:51 Elytic Diddy Uphill Timo Blak   || 0:2 ||  Nookie Foy Squishy Grim Stn 
+03-10-2022 00:09:14 Elytic Nookie Foy Grim Stn   || 0:1 ||  Diddy Uphill Squishy Timo Blak 
+03-10-2022 20:24:29 Squishy Grim Stn Nookie Foy   || 1:0 ||  Elytic Timo Diddy Blak Uphill 
+09-10-2022 21:26:10 Becket Zto Zery Timo Blak   || 2:1 ||  Elytic M-kon Stn Diddy Uphill 
+09-10-2022 22:06:49 Elytic Squishy Stn Diddy Uphill   || 0:1 ||  Zery Timo Becket Blak Zto 
+16-10-2022 21:39:25 Bobby Diddy Ronin Foy Timo   || 0:1 ||  Zery Alex Becket Daire Uphill 
+16-10-2022 21:56:21 Bobby Uphill Ronin Foy Becket   || 0:1 ||  Zery Alex Timo Daire Diddy 
+16-10-2022 22:41:16 Diddy Ronin Zery Timo Nookie   || 2:0 ||  Bobby Becket Alex Foy Uphill 
+23-10-2022 23:15:26 Diddy Blak Dragon Nookie Uphill   || 0:2 ||  Zto Ronin Becket Timo Grim 
+05-11-2022 21:35:13 Zery Diddy Ronin Becket Stn   || 3:1 ||  Blak Timo Grim Nookie Uphill 
+05-11-2022 22:14:15 Zery Ronin Becket Stn Uphill   || 2:0 ||  Diddy Blak Timo Grim Nookie 
+05-11-2022 22:57:08 Zto Diddy Blak Timo Haboo   || 0:2 ||  Ronin Becket Stn Nookie Uphill 
+12-11-2022 00:26:04 Zery Grim Ronin Foy Elytic   || 2:0 ||  Becket Blak Ende Uphill Diddy 
+12-11-2022 23:11:58 Wagon Blak Timo Zery Uphill   || 1:1 ||  Foy Bobby Diddy Ende Elytic 
+12-11-2022 23:36:25 Foy Diddy Blak Nookie Uphill   || 1:0 ||  Wagon Bobby Timo Ende Elytic 
+13-11-2022 00:15:18 Foy Bobby Ende Elytic Nookie   || 0:1 ||  Ronin Diddy Blak Timo Uphill 
+13-11-2022 00:20:53 Nookie Ende Bobby Foy Elytic   || 1:0 ||  Timo Blak Ronin Uphill Diddy 
+13-11-2022 22:00:46 Stn Ronin Ende Uphill Blak   || 0:2 ||  Timo Diddy Becket Nookie Alex 
+13-11-2022 22:45:44 Ronin Blak Timo Elytic Uphill   || 0:2 ||  Stn Haboo Diddy Ende Nookie 
+13-11-2022 23:35:50 Stn Ronin Blak Timo Uphill   || 1:1 ||  Haboo Diddy Regnells Elytic Nookie 
+25-11-2022 22:20:25 Uphill Ronin Becket Elytic Stn   || 1:2 ||  Cylas Zery Blak Diddy Nookie EU
+25-11-2022 23:16:22 Uphill Cylas Toxic Nookie Stn   || 2:0 ||  Ronin Becket Blak Diddy Elytic EU
+25-11-2022 23:37:28 Ronin Becket Blak Elytic Nookie   || 1:0 ||  Uphill Timo Toxic Diddy Stn EU
+26-11-2022 22:08:43 Uphill Haboo Becket Zery Tark   || 1:0 ||  Ronin Toxic Blak Cylas Nookie EU
+26-11-2022 22:45:55 Ronin Toxic Stn Nookie Tark   || 0:2 ||  Uphill Haboo Becket Blak Cylas EU
+27-11-2022 00:15:43 Uphill Titan Blak Diddy Nookie   || 2:1 ||  Ronin Toxic Becket Stn Tark EU
+27-11-2022 20:02:01 Ende Toxic Diddy Timo Zery   || 0:0 ||  Uphill Titan Becket Blak Elytic EU
+27-11-2022 20:20:34 Blak Elytic Uphill Becket Toxic   || 2:0 ||  Zery Titan Ende Timo Diddy EU
+27-11-2022 21:22:36 Uphill Titan Becket Blak Elytic   || 0:0 ||  Ende Toxic Diddy Timo Zery EU
+27-11-2022 21:25:28 Blak Elytic Becket Uphill Toxic   || 2:0 ||  Zery Titan Diddy Timo Ende EU
+27-11-2022 21:26:04 Titan Toxic Blak Diddy Zery   || 0:0 ||  Uphill Ende Becket Timo Elytic EU
+27-11-2022 21:29:37 Blak Diddy Zery Ende Titan   || 2:1 ||  Becket Toxic Timo Elytic Uphill EU
+27-11-2022 21:34:03 Ende Titan Becket Zery Elytic   || 0:0 ||  Uphill Toxic Stn Diddy Nookie EU
+27-11-2022 21:35:06 Ende Titan Becket Zery Elytic   || 0:0 ||  Uphill Toxic Stn Diddy Nookie EU
+27-11-2022 22:27:23 Blak Titan Diddy Zery Elytic   || 1:0 ||  Uphill Toxic Haboo Stn Nookie EU
+27-11-2022 22:31:32 Uphill Becket Toxic Stn Diddy   || 0:0 ||  Titan Ende Nookie Zery Elytic EU
+27-11-2022 22:34:29 Becket Titan Uphill Stn Nookie   || 2:0 ||  Toxic Elytic Diddy Zery Ende EU
+02-12-2022 21:37:33 Becket M-kon Blak Zery Ronin   || 2:0 ||  Uphill Cylas Ende Stn Nookie EU
+02-12-2022 22:12:49 Uphill M-kon Cylas Stn Blak   || 1:1 ||  Becket Ende Nookie Zery Ronin EU
+02-12-2022 22:47:09 Uphill Becket M-kon Ende Stn   || 0:0 ||  Toxic Blak Nookie Zery Ronin EU
+02-12-2022 22:49:29 Blak Toxic Stn Uphill M-kon   || 2:0 ||  Zery Becket Nookie Ronin Ende EU
+02-12-2022 23:14:52 Uphill Becket Elytic Nookie Ronin   || 0:0 ||  Toxic Ende Stn Blak Timo EU
+02-12-2022 23:17:03 Blak Nookie Ronin Uphill Elytic   || 1:0 ||  Becket Stn Toxic Ende Timo EU
+03-12-2022 00:10:53 Uphill Toxic Stn Nookie Timo   || 1:2 ||  Becket Elytic Foy Blak Ronin EU
+03-12-2022 22:48:32 Titan Stn Blak Ronin Timo   || 2:1 ||  Diddy Elytic Uphill Foy Squishy EU
+03-12-2022 23:28:21 Titan Diddy Stn Timo Toxic   || 0:0 ||  Elytic Uphill Foy Blak Ronin EU
+03-12-2022 23:31:34 Blak Uphill Elytic Toxic Foy   || 2:0 ||  Timo Titan Stn Diddy Ronin EU
+04-12-2022 00:29:38 Stn Blak Ronin Timo Toxic   || 1:2 ||  Becket Diddy Elytic Uphill Haboo EU
+11-12-2022 10:48:11 Becket Uphill Stn Bobby Dragon   || 1:0 ||  Diddy Elytic Haboo Zery Tark NY
+11-12-2022 10:54:40 Diddy Uphill Foy Bobby Becket   || 1:0 ||  Toxic Tark Elytic Slime Stn NY
+02-01-2023 20:13:28 Elytic Hero Diddy Stn Haboo   || 0:2 ||  M-kon Nookie Foy Uphill Becket EU
+02-01-2023 20:40:34 Uphill Stn Zery Alex Titan   || 0:1 ||  Becket Smurf Elytic Blak Timo EU
+02-01-2023 21:56:07 Becket Smurf Elytic Timo Blak   || 1:2 ||  Stn Zery Alex Diddy Uphill EU
+02-01-2023 22:18:00 Elytic Blak Alex Diddy Timo   || 1:0 ||  Becket Smurf Uphill Stn Cylas EU
+02-01-2023 23:34:38 Smurf Uphill Stn Cylas Haboo   || 2:2 ||  Sora Elytic Blak Diddy Timo NY
+02-01-2023 23:36:34 Becket Smurf Elytic Timo Blak   || 0:1 ||  Stn Zery Alex Diddy Uphill EU
+03-01-2023 21:15:03 Nookie Uphill Becket Hero Elytic   || 1:0 ||  Mitter Eppixx Blak Zery Cylas EU
+03-01-2023 21:38:40 Mitter Blak Zery Hero Elytic   || 1:0 ||  Eppixx Haboo Uphill Becket Cylas EU
+03-01-2023 22:09:30 Uphill Blak Becket Hero Cylas   || 1:1 ||  Mitter Eppixx Haboo Zery Elytic EU
+04-01-2023 11:10:51 Mitter Becket Nookie Cylas Elytic   || 1:0 ||  Stn Haboo Uphill Blak Hero EU
+05-01-2023 23:05:15 Mitter Uphill Becket Nookie Elytic   || 3:2 ||  Ronin Haboo Blak Zery M-kon EU
+05-01-2023 23:33:07 Mitter Ronin Becket M-kon Elytic   || 0:1 ||  Haboo Uphill Cylas Nookie Eppixx EU
+07-01-2023 23:30:10 Diddy M-kon Timo Titan Blak   || 2:1 ||  Ronin Uphill Mitter Elytic Nookie EU
+08-01-2023 22:35:33 Diddy M-kon Timo Alex Blak   || 2:1 ||  Ronin Uphill Elytic Nookie Haboo EU
+13-01-2023 23:07:14 Uphill Timo Nookie Cylas Becket   || 0:1 ||  Diddy Stn M-kon Mitter Blak EU
+13-01-2023 23:35:39 Stn Zto Elytic Nookie Mitter   || 1:0 ||  Diddy Uphill Cylas Becket Blak EU
+13-01-2023 23:56:54 Diddy Stn Zto Nookie Titan   || 0:1 ||  Uphill Elytic Mitter Becket Blak EU
+14-01-2023 00:26:42 Diddy Stn Uphill Slime Blak   || 0:1 ||  Zto Elytic Nookie Titan Becket NY
+31-01-2023 23:02:04 Dragon Elytic Suddi Tark Blak   || 0:1 ||  Lightman Stn Uphill Toxic M-kon EU
+31-01-2023 23:46:55 Nookie Uphill Elytic Tark Blak   || 2:0 ||  Lightman Stn Toxic M-kon Suddi EU
+02-02-2023 21:42:14 Timo Zery M-kon Suddi Mitter   || 1:2 ||  Uphill Elytic Toxic Foy Blak EU
+02-02-2023 23:22:03 Tark Elytic Toxic Haboo Blak   || 1:2 ||  Sora Alex Nookie Suddi Mitter EU
+03-02-2023 00:25:58 Sora Elytic Toxic Haboo Blak   || 1:1 ||  Stn Tark Nookie Suddi Mitter EU
+03-02-2023 00:32:33 Blak Haboo Elytic M-kon Toxic   || 1:0 ||  Stn Suddi Nookie Ehkho Mitter NY
+04-02-2023 00:36:59 Stn Ehkho Grim Timo Elytic   || 1:0 ||  Haboo Ronin Toxic Uphill Blak EU
+04-02-2023 00:56:12 Foy Ronin Toxic Timo Elytic   || 1:0 ||  Haboo Ehkho Grim Uphill Blak EU
+04-02-2023 01:52:07 Foy Haboo Grim Timo Uphill   || 2:1 ||  Ehkho Ronin Toxic Blak Elytic EU
+19-02-2023 18:56:40 Mitter Alex Diddy Uphill Zery   || 0:2 ||  Naicrez Stn Ronin Cylas Blak EU
+19-02-2023 19:19:36 Naicrez Stn Mitter Alex Zery   || 1:0 ||  Ronin Timo Diddy Uphill Blak EU
+19-02-2023 19:49:55 Naicrez Diddy Uphill Blak Zery   || 2:0 ||  Stn Suddi Mitter Timo Alex EU
+19-02-2023 20:31:03 Stn Mitter Alex Uphill Blak   || 0:2 ||  Naicrez Suddi Timo Diddy Zery EU
+23-02-2023 23:27:02 Cylas Foy Becket Zery M-kon   || 1:3 ||  Naicrez Stn Suddi Uphill Blak EU
+26-02-2023 23:17:39 Nookie Timo Mitter Uphill Diddy   || 3:0 ||  Naicrez Stn Toxic Smurf Blak EU
+05-03-2023 21:01:22 Naicrez Suddi Hero Diddy Haboo   || 3:0 ||  Alex Toxic Mitter Uphill Blak EU
+05-03-2023 21:24:58 Naicrez Alex Suddi Diddy Haboo   || 1:0 ||  Toxic Nookie Mitter Uphill Blak EU
+05-03-2023 21:55:41 Toxic Nookie Diddy Uphill Blak   || 0:2 ||  Naicrez Alex Suddi Zery Haboo EU
+05-03-2023 22:21:01 Naicrez M-kon Diddy Zery Haboo   || 1:0 ||  Suddi Toxic Nookie Uphill Blak EU
+06-03-2023 22:08:20 Alex Ronin Zery Timo Toxic   || 1:1 ||  Haboo Elytic Hero Suddi Uphill EU
+10-03-2023 00:40:22 Toxic Ronin Uphill Blak Haboo   || 1:0 ||  Schmogle M-kon Suddi Elytic Ehkho EU
+10-03-2023 22:52:00 Schmogle Hero Elytic Uphill Haboo   || 0:2 ||  Suddi Toxic Ronin Naicrez Pano EU
+10-03-2023 23:32:39 Ronin Naicrez Uphill Pano Haboo   || 1:1 ||  Schmogle Hero Suddi Toxic Elytic EU
+11-03-2023 00:38:11 Suddi Toxic Ronin Pano Haboo   || 1:3 ||  Blak Hero Elytic Naicrez Uphill EU
+11-03-2023 00:58:56 Blak Hero Suddi Toxic Uphill   || 0:1 ||  Stn Ronin Naicrez Pano Haboo EU
+11-03-2023 10:00:57 Suddi Toxic Ronin Pano Haboo   || 3:1 ||  Blak Elytic Hero Naicrez Uphill EU
+11-03-2023 10:05:32 Blak Uphill Suddi Toxic Hero   || 0:1 ||  Ronin Naicrez Stn Pano Haboo EU
+11-03-2023 10:09:48 Blak Uphill Haboo Naicrez Diddy   || 0:1 ||  Ronin Toxic Stn Pano Suddi EU
+11-03-2023 21:25:48 Schmoogle Titan Ronin Diddy Haboo   || 1:1 ||  Foy Suddi Toxic Uphill Timo NY
+11-03-2023 21:42:58 Uphill Foy Suddi Toxic Timo   || 0:1 ||  Ronin Diddy Schmoogle Titan Haboo NY
+11-03-2023 21:46:39 Uphill Foy Suddi Toxic Timo   || 1:0 ||  Ronin Diddy Schmoogle Titan Haboo NY
+11-03-2023 22:10:02 Uphill Foy Diddy Titan Timo   || 1:0 ||  Ronin Suddi Schmoogle Toxic Haboo NY
+11-03-2023 22:21:36 Uphill Foy Diddy Titan Timo   || 1:0 ||  Ronin Suddi Schmoogle Toxic Haboo NY
+11-03-2023 22:30:42 Uphill Foy Suddi Toxic Timo   || 1:0 ||  Ronin Diddy Schmoogle Titan Haboo NY
+12-03-2023 21:22:03 Uphill Haboo Zery Mitter Timo   || 2:0 ||  Toxic Suddi Blak Titan Naicrez EU
+12-03-2023 21:24:24 Uphill Haboo Zery Hero Timo   || 1:1 ||  Toxic Suddi Blak Ronin Naicrez EU
+12-03-2023 22:14:35 Naicrez Suddi Uphill Ronin Haboo   || 1:1 ||  Blak Zery Toxic Timo Hero EU
+14-03-2023 20:50:34 Blak Naicrez Zery Toxic Uphill   || 2:1 ||  Timo Alex Elytic Ronin Haboo EU
+14-03-2023 21:11:10 Blak Toxic Timo Elytic Uphill   || 1:0 ||  Naicrez Zery Foy Ronin Haboo EU
+15-03-2023 21:29:46 Naicrez Foy Stn M-kon Haboo   || 1:0 ||  Mitter Zery Toxic Nookie Uphill EU
+15-03-2023 22:01:04 Mitter Timo Nookie Uphill M-kon   || 0:1 ||  Naicrez Toxic Foy Stn Haboo EU
+15-03-2023 22:36:03 Naicrez Nookie Foy Blak Haboo   || 2:0 ||  Suddi Alex Toxic Stn Uphill EU
+24-03-2023 21:38:42 Schmoogle Naicrez Haboo Blak Zery   || 1:2 ||  Becket Toxic Foy Stn Uphill EU
+24-03-2023 22:15:39 Toxic Stn Uphill Blak Mitter   || 0:2 ||  Schmoogle Naicrez Becket Haboo Foy EU
+26-03-2023 21:29:51 Alex Diddy Naicrez Blak Zery   || 1:0 ||  Becket Haboo Foy Stn Uphill EU
+30-03-2023 19:03:39 Toxic Diddy Blak Naicrez Zery   || 0:2 ||  Foy Stn Uphill Becket Haboo EU
+30-03-2023 20:13:11 Toxic Uphill Naicrez Schmoogle Zery   || 0:1 ||  Lightman Ronin Stn Mitter Blak EU
+30-03-2023 21:03:25 Lightman Schmoogle Stn Haboo Blak   || 1:1 ||  Toxic Uphill Naicrez Ronin Zery EU
+30-03-2023 21:42:34 Toxic Zery Mitter Naicrez Ronin   || 0:1 ||  Schmoogle Stn Haboo Blak Lightman EU
+30-03-2023 22:07:42 Toxic Ronin Schmoogle Suddi Zery   || 1:0 ||  Lightman Mitter Naicrez Stn Blak EU
+31-03-2023 21:58:12 Ronin Schmoogle Stn Uphill Zery   || 1:3 ||  Toxic Lightman Foy Naicrez Suddi EU
+31-03-2023 22:41:12 Toxic Lightman Naicrez Becket Schmoogle   || 0:1 ||  Slime Ronin Blak Haboo Uphill EU
+31-03-2023 23:40:28 Lightman Naicrez Haboo Uphill Timo   || 2:0 ||  Toxic Slime Ronin Becket Blak EU
+01-04-2023 22:47:32 Lightman Becket Haboo Uphill Diddy   || 0:1 ||  Toxic Sora Foy Zery Blak NY
+02-04-2023 14:24:38 Timo Becket Haboo Uphill Diddy   || 3:1 ||  Toxic Suddi Sora Foy Blak EU
+25-05-2023 20:39:09 Kilg Lightman Elytic Blak Zery   || 0:1 ||  Toxic Timo Becket Uphill Bobby EU
+25-05-2023 20:59:15 Toxic Kilg Becket Blak Zery   || 1:0 ||  Alex Elytic Timo Uphill Bobby EU
+25-05-2023 21:44:05 Alex Elytic Becket Uphill Bobby   || 1:1 ||  Toxic Kilg Timo Blak Zery EU
+31-05-2023 22:29:01 Elytic Timo Foy Uphill Bobby   || 0:0 ||  Toxic M-kon Titan Becket Zery EU
+31-05-2023 22:30:50 Toxic Timo Foy Zery Uphill   || 1:0 ||  M-kon Titan Elytic Becket Bobby EU
+01-06-2023 21:40:42 Kilg Becket Blak Uphill Hero   || 0:3 ||  Noface M-kon Mitter Ronin Zery EU
+01-06-2023 22:07:25 Noface M-kon Nookie Ronin Blak   || 0:1 ||  Kilg Becket Zery Uphill Elytic EU
+17-06-2023 00:08:36 Mitter Blak Suddi Uphill Elytic   || 2:2 ||  Timo Bobby Diddy Toxic Becket EU
+17-06-2023 00:17:12 Elytic Zery Mitter Eppixx Stn   || 1:2 ||  Suddi Becket Diddy Timo Uphill EU
+17-06-2023 00:22:11 Elytic Nookie Mitter Becket Stn   || 2:1 ||  Suddi Zery Diddy Timo Uphill EU
+18-06-2023 09:21:19 Suddi Stn Nookie Diddy Zim   || 0:1 ||  Becket Blak Timo Uphill Zery EU
+18-06-2023 21:58:54 Timo Diddy Bobby Alex Elytic   || 1:2 ||  Slime Becket Zery Mitter Suddi NY
+18-06-2023 23:07:43 Slime Diddy Bobby Suddi Elytic   || 2:2 ||  Timo Becket Zery Mitter Blak NY
+27-06-2023 17:54:00 Suddi Timo Becket Elytic Sora   || 3:0 ||  Titan Bobby Diddy Haboo Zery NY
+27-06-2023 17:58:12 Suddi Nookie Becket Elytic Sora   || 1:1 ||  Timo Bobby Diddy Squishy Zery NY
+27-06-2023 18:00:00 Suddi Nookie Becket Elytic Uphill   || 0:1 ||  Timo Bobby Diddy Squishy Zery NY
+28-06-2023 22:06:25 Tark Becket Foy Uphill Ronin   || 1:0 ||  Daire Zery Titan Mitter Blak NY
+28-06-2023 22:43:47 Daire Zery Mitter Blak Ronin   || 1:1 ||  Tark Becket Bobby Titan Uphill NY
+05-07-2023 11:25:55 Zery Ruski Uphill Blak Ronin   || 0:1 ||  Toxic Daire Becket Bobby Mitter EU
+05-07-2023 11:29:33 Suddi Grim Becket Mitter Uphill   || 1:1 ||  Timo Squishy Titan Zery Daire EU
+05-07-2023 11:32:25 Suddi Timo Toxic Elytic Uphill   || 2:0 ||  Becket Mitter Titan Zery Foy EU
+05-07-2023 11:34:41 Suddi Timo Noface Elytic Uphill   || 0:2 ||  Becket Mitter Toxic Zery Foy EU
+08-07-2023 22:31:40 Toxic Foy Becket Naicrez Zery   || 0:1 ||  Timo Elytic Diddy Blak Suddi EU
+08-07-2023 23:05:32 Toxic Foy Zery Blak Suddi   || 2:0 ||  Becket Naicrez Timo Elytic Diddy EU
+08-07-2023 23:25:03 Toxic Timo Elytic Zery Blak   || 0:1 ||  Foy Becket Naicrez Diddy Suddi EU
+08-07-2023 23:58:15 Toxic Diddy Becket Elytic Timo   || 2:2 ||  Haboo Foy Naicrez Blak Suddi EU
+16-07-2023 23:23:12 Uphill Zery Becket Elytic Naicrez   || 0:1 ||  Toxic Diddy Mitter Stn Suddi EU
+17-07-2023 09:26:45 Uphill Zery Becket Elytic Naicrez   || 2:2 ||  Toxic Diddy Mitter Stn Suddi EU
+18-07-2023 23:27:18 Toxic Squishy Naicrez Nookie Blak   || 0:1 ||  Becket Timo Bobby Titan Suddi EU
+19-07-2023 00:27:50 Skitts Squishy Becket Naicrez Timo   || 1:2 ||  Nookie Bobby Toxic Blak Suddi EU
+19-07-2023 01:10:57 Skitts Squishy Becket Naicrez Timo   || 1:2 ||  Nookie Bobby Toxic Blak Suddi EU
+19-07-2023 01:14:30 Toxic Squishy Becket Bobby Timo   || 1:1 ||  Nookie Naicrez Skitts Blak Suddi EU
+19-07-2023 19:16:41 Squishy Zery Naicrez Bobby Blak   || 0:1 ||  Toxic Haboo Mitter Becket Suddi EU
+19-07-2023 19:41:46 Timo Squishy Zery Naicrez Bobby   || 0:2 ||  Mitter Haboo Becket Toxic Suddi EU
+19-07-2023 20:25:25 Toxic Squishy Haboo Bobby Becket   || 0:2 ||  Zery Naicrez Mitter Timo Suddi EU
+20-07-2023 23:11:45 Toxic Daire Bobby Becket Zto   || 0:3 ||  Squishy Blak Naicrez Skitts Timo EU
+20-07-2023 23:56:34 Toxic Squishy Blak Skitts Becket   || 1:1 ||  Naicrez Zery Bobby Timo Zto EU

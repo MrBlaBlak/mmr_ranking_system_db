@@ -1,0 +1,428 @@
+Uphill Blak Elytic Becket Zery   || <- 1 ||  eden  ||  Timo Nookie Diddy Ruski Suddi 
+Nookie Blak Elytic Ehkho Zery   || <- 2 ||  drydock  ||  Timo Tt Diddy Becket Suddi 
+Nookie Blak Elytic Ehkho Uphill   || <- 1 ||  angel  ||  Timo Tt Diddy Becket Suddi 
+Nookie Blak Elytic Ehkho Uphill   || -> 1 ||  colony  ||  Timo Tt Diddy Becket Suddi 
+Nookie Blak Elytic Ehkho Uphill   || -> 1 ||  glitch  ||  Timo Tt Diddy Becket Suddi 
+Nookie Blak Elytic Ehkho Uphill   || <- 1 ||  boomtown  ||  Timo Tt Diddy Becket Suddi 
+Timo Ruski Zery Stn Blak   || <- 4 ||  glitch  ||  Uphill Elytic Diddy Becket Suddi 
+Suddi Timo Cylas Ruski Blak   || <- 3 ||  colony  ||  Uphill Elytic Diddy Becket Stn 
+Alex Bobby Uphill Zery Blak   || <- 1 ||  drydock  ||  Suddi Elytic Timo Becket Tark 
+Alex Bobby Grim Ehkho Blak   || -> 5 ||  angel  ||  Suddi Elytic Timo Becket Tark 
+Timo Elytic Grim Ehkho Blak   || -> 5 ||  glitch  ||  Suddi Alex Bobby Zto Tark 
+Timo Elytic Grim Ehkho Blak   || -> 5 ||  exo  ||  Suddi Alex Bobby Zto Tark 
+Timo Alex Suddi Ehkho Blak   || <- 1 ||  eden  ||  Elytic Uphill Bobby Zto Nookie 
+Ruski Slime Suddi Ehkho Blak   || -> 1 ||  exo  ||  Elytic Uphill Diddy Ethereal Timo 
+Ruski Slime Suddi Ehkho Blak   || -> 4 ||  boomtown  ||  Elytic Uphill Diddy Ethereal Timo 
+Elytic Bobby Uphill Pano Blak   || <- 3 ||  exo  ||  Alex Ruski Diddy Ethereal Suddi 
+Elytic Bobby Uphill Pano Blak   || <- 1 ||  eden  ||  Alex Ruski Diddy Ethereal Suddi 
+Elytic Bobby Uphill Hero Blak   || <- 1 ||  exo  ||  Tark Timo Nookie Panda Suddi 
+Elytic Bobby Uphill Hero Blak   || <- 3 ||  eden  ||  Tark Timo Nookie Panda Suddi 
+Elytic Nookie Uphill Hero Suddi   || -> 2 ||  drydock  ||  Tark Timo Bobby Panda Blak //
+Stn Timo Diddy Uphill Alex   || <- 3 ||  boomtown  ||  Elytic Blak M-kon Zery Zim 
+Stn Timo Diddy Uphill Alex   || -> 1 ||  exo  ||  Elytic Blak M-kon Zery Zim 
+Stn Timo Diddy Uphill Alex   || -> 1 ||  eden  ||  Elytic Blak M-kon Zery Zim 
+Elytic Pano Diddy Zim Alex   || -> 3 ||  drydock  ||  Stn Blak Ronin Ruski Zery 
+Elytic Pano Diddy Zim Alex   || <- 1 ||  angel  ||  Stn Blak Ronin Ruski Zery 
+Stn Elytic Ronin Uphill Zim   || <- 1 ||  colony  ||  Pano Blak Diddy Ruski Alex 
+Stn Elytic Ronin Uphill Zim   || <- 5 ||  glitch  ||  Pano Blak Diddy Ruski Alex 
+Blak Timo Diddy Elytic Zto   || -> 1 ||  boomtown  ||  Ethereal Stn Pano Bobby Alex 
+Blak Timo Diddy Elytic Zto   || <- 2 ||  exo  ||  Ethereal Stn Pano Bobby Alex 
+Blak Timo Diddy Elytic Zto   || -> 1 ||  eden  ||  Ethereal Stn Pano Bobby Alex 
+Blak Timo Diddy Elytic Zto   || <- 2 ||  drydock  ||  Ethereal Stn Pano Bobby Alex 
+Blak Timo Diddy Elytic Zto   || <- 4 ||  angel  ||  Ethereal Stn Pano Bobby Alex 
+Timo Diddy Ethereal Stn Zto   || -> 1 ||  colony  ||  Blak Pano Elytic Bobby Uphill 
+Blak Timo Stn Pano Wraith   || -> 3 ||  glitch  ||  Diddy Ethereal Elytic Bobby Uphill 
+Blak Bobby Stinky Becket Uphill   || -> 1 ||  boomtown  ||  Pano Elytic Timo Zery Lightman 
+Blak Bobby Stinky Becket Uphill   || <- 5 ||  eden  ||  Pano Elytic Timo Zery Lightman 
+Blak Bobby Stinky Becket Uphill   || -> 3 ||  colony  ||  Pano Elytic Timo Zery Lightman 
+Hero Zery Grim Elytic Bobby   || <- 1 ||  boom  ||  Blak Suddi Ronin Uphill Stinky 
+Suddi Hero Zery Elytic Stinky   || <- 1 ||  boomtown  ||  Blak Ronin Grim Bobby Uphill 
+Suddi Hero Zery Elytic Stinky   || -> 3 ||  exo  ||  Blak Ronin Grim Bobby Uphill 
+Suddi Hero Zery Elytic Stinky   || -> 1 ||  eden  ||  Blak Ronin Grim Bobby Uphill 
+Suddi Hero Zery Elytic Stinky   || <- 5 ||  drydock  ||  Blak Ronin Grim Bobby Uphill 
+Suddi Zery Timo Bobby Becket   || <- 4 ||  boomtown  ||  Blak Dragon Alex Elytic Uphill 
+Suddi Zery Timo Bobby Becket   || <- 4 ||  exo  ||  Blak Dragon Alex Elytic Uphill 
+Suddi Zery Alex Bobby Uphill   || -> 1 ||  drydock  ||  Blak Dragon Timo Elytic Becket 
+Suddi Zery Alex Bobby Uphill   || -> 4 ||  angel  ||  Blak Dragon Timo Elytic Becket 
+Suddi Dragon Elytic Uphill Becket   || <- 2 ||  glitch  ||  Blak Hero Timo Stinky Bobby 
+Suddi Dragon Elytic Uphill Becket   || <- 1 ||  boomtown  ||  Blak Hero Timo Stinky Bobby 
+Ronin Stn Zery Diddy Timo   || <- 1 ||  boomtown  ||  Suddi Elytic Bobby Nookie Uphill 
+Suddi Nookie Uphill Elytic Bobby   || -> 1 ||  boomtown  ||  Timo Ronin Stn Diddy Zery 
+Suddi Nookie Uphill Elytic Timo   || -> 1 ||  angel  ||  Squishy Ronin Bobby Diddy Pano 
+Suddi Nookie Uphill Elytic Timo   || <- 2 ||  colony  ||  Squishy Ronin Bobby Diddy Pano 
+Alex Nookie Elytic Bobby Ronin   || <- 1 ||  boomtown  ||  Blak Daire Hero Timo Uphill 
+Alex Nookie Elytic Bobby Ronin   || -> 1 ||  exo  ||  Blak Daire Hero Timo Uphill 
+Alex Nookie Elytic Bobby Ronin   || <- 3 ||  eden  ||  Blak Daire Hero Timo Uphill 
+Pano Ruski Elytic Bobby Ronin   || -> 3 ||  boomtown  ||  Blak Zery Timo Nookie Uphill 
+Pano Ethereal Timo Bobby Uphill   || <- 1 ||  exo  ||  Blak Zery Nookie Elytic Ronin 
+Uphill Pano Ethereal Bobby Timo   || -> 2 ||  eden  ||  Nookie Elytic Becket Blak Ronin 
+Uphill Pano Ethereal Bobby Timo   || <- 1 ||  drydock  ||  Nookie Elytic Becket Blak Ronin 
+Blak Pano Zery Nookie Ronin   || <- 1 ||  boomtown  ||  Cylas Timo Diddy Becket Uphill 
+Blak Pano Zery Nookie Ronin   || <- 1 ||  eden  ||  Cylas Timo Diddy Becket Uphill 
+Zery Nookie Elytic Stinky Ronin   || <- 3 ||  boomtown  ||  Alex Dragon Pano Timo Uphill 
+Zery Nookie Elytic Stinky Ronin   || -> 1 ||  exo  ||  Alex Dragon Pano Timo Uphill 
+Zery Nookie Elytic Stinky Ronin   || <- 3 ||  eden  ||  Alex Dragon Pano Timo Uphill 
+Zery Pano Dragon Alex Timo   || <- 1 ||  drydock  ||  Uphill Elytic Stinky Nookie Ronin 
+Blak Dragon Lightman Nookie Uphill   || <- 1 ||  angel  ||  Zery Timo Bobby Stinky Ronin 
+Blak Pano Nookie Stinky Ronin   || -> 1 ||  boomtown  ||  Uphill Bobby Timo Dragon Zery 
+Blak Pano Nookie Stinky Ronin   || <- 1 ||  exo  ||  Uphill Bobby Timo Dragon Zery 
+Blak Pano Nookie Stinky Ronin   || <- 1 ||  eden  ||  Uphill Bobby Timo Dragon Zery 
+Blak Pano Nookie Stinky Ronin   || -> 3 ||  drydock  ||  Uphill Bobby Timo Dragon Zery 
+Blak Zery Bobby Uphill Ronin   || -> 1 ||  boomtown  ||  Becket Pano Timo Elytic Stinky 
+Blak Zery Bobby Uphill Ronin   || <- 2 ||  exo  ||  Becket Pano Timo Elytic Stinky 
+Blak Ronin Nookie Bobby Uphill   || <- 1 ||  eden  ||  Pano Timo Elytic Stinky Becket 
+Blak Ronin Nookie Bobby Uphill   || -> 2 ||  drydock  ||  Pano Timo Elytic Stinky Becket 
+Pano Timo Dragon Elytic Stinky   || -> 2 ||  angel  ||  Blak Becket Nookie Uphill Ronin 
+Pano Timo Elytic Stinky Ronin   || -> 3 ||  colony  ||  Blak Becket Nookie Dragon Uphill 
+Pano Timo Elytic Stinky Ronin   || <- 1 ||  glitch  ||  Blak Becket Nookie Dragon Uphill 
+Pano Timo Elytic Stinky Ronin   || -> 3 ||  boomtown  ||  Blak Becket Nookie Dragon Uphill 
+Grim Pano Timo Uphill Bobby   || <- 4 ||  exo  ||  Blak Nookie Dragon Elytic Stinky 
+Stn Diddy Becket Zery Ronin   || <- 1 ||  boomtown  ||  Blak Timo Dragon Elytic Uphill 
+Stn Diddy Becket Zery Ronin   || <- 1 ||  exo  ||  Blak Timo Dragon Elytic Uphill 
+Stn Diddy Becket Pano Zery   || -> 1 ||  boomtown  ||  Blak Bobby Elytic Uphill Nookie 
+Stn Diddy Becket Pano Zery   || <- 5 ||  drydock  ||  Blak Bobby Elytic Uphill Nookie 
+Stn Diddy Becket Pano Zery   || -> 3 ||  exo  ||  Blak Bobby Elytic Uphill Nookie 
+Stn Diddy Becket Pano Zery   || -> 1 ||  eden  ||  Blak Bobby Elytic Uphill Nookie 
+Stn Slime Elytic Zery Nookie   || <- 6 ||  angel  ||  Blak Diddy Pano Bobby Uphill 
+Stn Slime Elytic Zery Nookie   || <- 4 ||  colony  ||  Blak Diddy Pano Bobby Uphill 
+Slime Pano Bobby Elytic Uphill   || -> 2 ||  glitch  ||  Blak Timo Diddy Grim Nookie 
+Timo Diddy Slime Grim Dragon   || -> 1 ||  boomtown  ||  Blak Zery Alex Elytic Uphill 
+Timo Diddy Slime Grim Dragon   || -> 6 ||  exo  ||  Blak Zery Alex Elytic Uphill 
+Timo Diddy Slime Grim Dragon   || -> 1 ||  boomtown  ||  Blak Zery Alex Elytic Uphill 
+Timo Diddy Slime Grim Dragon   || -> 6 ||  exo  ||  Blak Zery Alex Elytic Uphill 
+Blak Diddy Slime Uphill Dragon   || -> 2 ||  11  ||  Timo Zery Alex Elytic Grim 
+Timo Diddy Slime Grim Dragon   || -> 1 ||  boomtown  ||  Blak Zery Alex Elytic Uphill 
+Timo Diddy Slime Grim Dragon   || -> 6 ||  exo  ||  Blak Zery Alex Elytic Uphill 
+Blak Diddy Slime Uphill Dragon   || -> 2 ||  eden  ||  Timo Zery Alex Elytic Grim 
+Blak Diddy Slime Uphill Dragon   || <- 1 ||  drydock  ||  Timo Zery Alex Elytic Grim 
+Blak Becket Zto Grim Timo   || <- 2 ||  boomtown  ||  Dragon Elytic Bobby Nookie Diddy 
+Blak Becket Zto Grim Timo   || -> 1 ||  exo  ||  Dragon Elytic Bobby Nookie Diddy 
+Blak Becket Zto Grim Timo   || <- 2 ||  eden  ||  Dragon Elytic Bobby Nookie Diddy 
+Blak Bobby Elytic Uphill Timo   || -> 3 ||  drydock  ||  Dragon Grim Becket Nookie Diddy 
+Blak Bobby Elytic Uphill Timo   || -> 1 ||  angel  ||  Dragon Grim Becket Nookie Diddy 
+Diddy Hero Ronin Stn Dragon   || -> 3 ||  exo  ||  Blak Timo Bobby Becket Uphill 
+Diddy Hero Ronin Stn Dragon   || -> 1 ||  eden  ||  Blak Timo Bobby Becket Uphill 
+Blak Timo Becket Uphill Bobby   || <- 1 ||  angel  ||  Ronin Stn Diddy Zery Dragon 
+Blak Zery Slime Ronin Dragon   || -> 2 ||  boomtown  ||  Timo Stinky Nookie Becket Uphill 
+Blak Zery Slime Ronin Dragon   || <- 1 ||  exo  ||  Timo Stinky Nookie Becket Uphill 
+Blak Zery Slime Ronin Dragon   || <- 1 ||  eden  ||  Timo Stinky Nookie Becket Uphill 
+Blak Becket Stinky Diddy Uphill   || <- 1 ||  drydock  ||  Zto Slime Ronin Nookie Dragon 
+Slime Ronin Nookie Diddy Uphill   || <- 4 ||  angel  ||  Blak Alex Stinky Zto Dragon
+Stn Haboo Becket Diddy Hero   || <- 1 ||  boomtown  ||  Zery Elytic Timo Suddi Daire 
+Stn Haboo Becket Diddy Hero   || -> 3 ||  eden  ||  Zery Elytic Timo Suddi Daire 
+Stn Haboo Becket Diddy Hero   || <- 3 ||  exo  ||  Zery Elytic Timo Suddi Daire 
+Stn Haboo Becket Diddy Hero   || -> 3 ||  drydock  ||  Zery Elytic Timo Suddi Daire 
+Stn Haboo Becket Diddy Hero   || -> 4 ||  angel  ||  Zery Elytic Timo Suddi Daire
+"Becket", "Stn", "Uphill", "Alex", "Diddy",   || <- 6 ||  drydock  ||  "Timo", "Zery", "Elytic", "Zto", "Dragon", EU
+"Becket", "Stn", "Uphill", "Alex", "Diddy",   || -> 1 ||  eden  ||  "Timo", "Zery", "Elytic", "Zto", "Dragon", EU
+"Becket", "Stn", "Uphill", "Alex", "Diddy",   || <- 3 ||  angel  ||  "Timo", "Zery", "Elytic", "Zto", "Dragon", EU
+"Becket", "Ronin", "Uphill", "Zery", "Diddy",   || <- 1 ||  boomtown  ||  "Timo", "Stn", "Nookie", "Foy", "Dragon", EU
+"Becket", "Ronin", "Uphill", "Zery", "Diddy",   || -> 1 ||  exo  ||  "Timo", "Stn", "Nookie", "Foy", "Dragon", EU
+"Grim", "Blak", "Ronin", "Cylas", "Nookie",   || -> 5 ||  exo  ||  "Zto", "Uphill", "Foy", "Zery", "Bobby", NY
+"Grim", "Foy", "Timo", "Bobby", "Nookie",   || <- 6 ||  eden  ||  "Zto", "Uphill", "Blak", "Ronin", "Cylas", NY
+"Grim", "Uphill", "Foy", "Bobby", "Nookie",   || <- 4 ||  drydock  ||  "Elytic", "Blak", "Ronin", "Timo", "Cylas", NY
+"Grim", "Blak", "Ronin", "Cylas", "Nookie",   || -> 5 ||  exo  ||  "Zto", "Uphill", "Foy", "Zery", "Bobby", NY
+"Grim", "Foy", "Timo", "Bobby", "Nookie",   || <- 6 ||  eden  ||  "Zto", "Uphill", "Blak", "Ronin", "Cylas", NY
+"Grim", "Uphill", "Foy", "Bobby", "Nookie",   || <- 4 ||  drydock  ||  "Elytic", "Blak", "Ronin", "Timo", "Cylas", NY
+"Uphill", "Bobby", "Timo", "Zery", "Becket",   || <- 2 ||  exo  ||  "Elytic", "Diddy", "Zto", "Stinky", "Blak", EU
+"Uphill", "Bobby", "Timo", "Zery", "Becket",   || <- 1 ||  drydock  ||  "Elytic", "Diddy", "Zto", "Stinky", "Blak", EU
+"Elytic", "Diddy", "Uphill", "Timo", "Blak",   || -> 1 ||  boomtown  ||  "Nookie", "Foy", "Squishy", "Grim", "Stn", EU
+"Elytic", "Diddy", "Uphill", "Timo", "Blak",   || -> 1 ||  exo  ||  "Nookie", "Foy", "Squishy", "Grim", "Stn", EU
+"Elytic", "Nookie", "Foy", "Grim", "Stn",   || -> 1 ||  drydock  ||  "Diddy", "Uphill", "Squishy", "Timo", "Blak", EU
+"Squishy", "Grim", "Stn", "Nookie", "Foy",   || <- 1 ||  eden  ||  "Elytic", "Timo", "Diddy", "Blak", "Uphill", EU
+"Becket", "Zto", "Zery", "Timo", "Blak",   || <- 4 ||  boomtown  ||  "Elytic", "M-kon", "Stn", "Diddy", "Uphill", EU
+"Becket", "Zto", "Zery", "Timo", "Blak",   || -> 1 ||  exo  ||  "Elytic", "M-kon", "Stn", "Diddy", "Uphill", EU
+"Becket", "Zto", "Zery", "Timo", "Blak",   || <- 2 ||  eden  ||  "Elytic", "M-kon", "Stn", "Diddy", "Uphill", EU
+"Elytic", "Squishy", "Stn", "Diddy", "Uphill",   || -> 1 ||  angel  ||  "Zery", "Timo", "Becket", "Blak", "Zto", EU
+"Bobby", "Diddy", "Ronin", "Foy", "Timo",   || -> 1 ||  boomtown  ||  "Zery", "Alex", "Becket", "Daire", "Uphill", EU
+"Bobby", "Uphill", "Ronin", "Foy", "Becket",   || -> 5 ||  exo  ||  "Zery", "Alex", "Timo", "Daire", "Diddy", EU
+"Diddy", "Ronin", "Zery", "Timo", "Nookie",   || <- 1 ||  eden  ||  "Bobby", "Becket", "Alex", "Foy", "Uphill", EU
+"Diddy", "Ronin", "Zery", "Timo", "Nookie",   || <- 1 ||  drydock  ||  "Bobby", "Becket", "Alex", "Foy", "Uphill", EU
+"Diddy", "Blak", "Dragon", "Nookie", "Uphill",   || -> 2 ||  glitch  ||  "Zto", "Ronin", "Becket", "Timo", "Grim", NY
+"Diddy", "Blak", "Dragon", "Nookie", "Uphill",   || -> 1 ||  colony  ||  "Zto", "Ronin", "Becket", "Timo", "Grim", NY
+"Zery", "Diddy", "Ronin", "Becket", "Stn",   || -> 1 ||  boomtown  ||  "Blak", "Timo", "Grim", "Nookie", "Uphill", EU
+"Zery", "Diddy", "Ronin", "Becket", "Stn",   || <- 1 ||  exo  ||  "Blak", "Timo", "Grim", "Nookie", "Uphill", EU
+"Zery", "Diddy", "Ronin", "Becket", "Stn",   || <- 1 ||  eden  ||  "Blak", "Timo", "Grim", "Nookie", "Uphill", EU
+"Zery", "Diddy", "Ronin", "Becket", "Stn",   || <- 2 ||  drydock  ||  "Blak", "Timo", "Grim", "Nookie", "Uphill", EU
+"Zery", "Ronin", "Becket", "Stn", "Uphill",   || <- 1 ||  angel  ||  "Diddy", "Blak", "Timo", "Grim", "Nookie", EU
+"Zery", "Ronin", "Becket", "Stn", "Uphill",   || <- 1 ||  angel  ||  "Diddy", "Blak", "Timo", "Grim", "Nookie", EU
+"Zery", "Ronin", "Becket", "Stn", "Uphill",   || <- 2 ||  colony  ||  "Diddy", "Blak", "Timo", "Grim", "Nookie", EU
+"Zto", "Diddy", "Blak", "Timo", "Haboo",   || -> 1 ||  glitch  ||  "Ronin", "Becket", "Stn", "Nookie", "Uphill", EU
+"Zto", "Diddy", "Blak", "Timo", "Haboo",   || -> 4 ||  boomtown  ||  "Ronin", "Becket", "Stn", "Nookie", "Uphill", EU
+"Zery", "Grim", "Ronin", "Foy", "Elytic",   || <- 1 ||  boomtown  ||  "Becket", "Blak", "Ende", "Uphill", "Diddy", EU
+"Zery", "Grim", "Ronin", "Foy", "Elytic",   || <- 2 ||  exo  ||  "Becket", "Blak", "Ende", "Uphill", "Diddy", EU
+"Wagon", "Blak", "Timo", "Zery", "Uphill",   || <- 3 ||  colony  ||  "Foy", "Bobby", "Diddy", "Ende", "Elytic", NY
+"Wagon", "Blak", "Timo", "Zery", "Uphill",   || -> 1 ||  glitch  ||  "Foy", "Bobby", "Diddy", "Ende", "Elytic", NY
+"Foy", "Diddy", "Blak", "Nookie", "Uphill",   || <- 1 ||  drydock  ||  "Wagon", "Bobby", "Timo", "Ende", "Elytic", EU
+"Foy", "Bobby", "Ende", "Elytic", "Nookie",   || -> 2 ||  exo  ||  "Ronin", "Diddy", "Blak", "Timo", "Uphill", EU
+"Nookie", "Ende", "Bobby", "Foy", "Elytic",   || <- 1 ||  eden  ||  "Timo", "Blak", "Ronin", "Uphill", "Diddy", EU
+"Stn", "Ronin", "Ende", "Uphill", "Blak",   || -> 1 ||  boomtown  ||  "Timo", "Diddy", "Becket", "Nookie", "Alex", EU
+"Stn", "Ronin", "Ende", "Uphill", "Blak",   || -> 5 ||  exo  ||  "Timo", "Diddy", "Becket", "Nookie", "Alex", EU
+"Ronin", "Blak", "Timo", "Elytic", "Uphill",   || -> 1 ||  eden  ||  "Stn", "Haboo", "Diddy", "Ende", "Nookie", EU
+"Ronin", "Blak", "Timo", "Elytic", "Uphill",   || -> 5 ||  drydock  ||  "Stn", "Haboo", "Diddy", "Ende", "Nookie", EU
+"Stn", "Ronin", "Blak", "Timo", "Uphill",   || <- 2 ||  angel  ||  "Haboo", "Diddy", "Regnells", "Elytic", "Nookie", EU
+"Stn", "Ronin", "Blak", "Timo", "Uphill",   || -> 2 ||  colony  ||  "Haboo", "Diddy", "Regnells", "Elytic", "Nookie", EU
+"Uphill", "Ronin", "Becket", "Elytic", "Stn",   || -> 2 ||  boomtown  ||  "Cylas", "Zery", "Blak", "Diddy", "Nookie", EU
+"Uphill", "Ronin", "Becket", "Elytic", "Stn",   || <- 1 ||  eden  ||  "Cylas", "Zery", "Blak", "Diddy", "Nookie", EU
+"Uphill", "Ronin", "Becket", "Elytic", "Stn",   || -> 1 ||  exo  ||  "Cylas", "Zery", "Blak", "Diddy", "Nookie", EU
+"Uphill", "Cylas", "Toxic", "Nookie", "Stn",   || <- 1 ||  drydock  ||  "Ronin", "Becket", "Blak", "Diddy", "Elytic", EU
+"Uphill", "Cylas", "Toxic", "Nookie", "Stn",   || <- 1 ||  angel  ||  "Ronin", "Becket", "Blak", "Diddy", "Elytic", EU
+"Ronin", "Becket", "Blak", "Elytic", "Nookie",   || <- 4 ||  colony  ||  "Uphill", "Timo", "Toxic", "Diddy", "Stn", EU
+"Uphill", "Haboo", "Becket", "Zery", "Tark",   || <- 1 ||  boomtown  ||  "Ronin", "Toxic", "Blak", "Cylas", "Nookie", EU
+"Ronin", "Toxic", "Stn", "Nookie", "Tark",   || -> 3 ||  exo  ||  "Uphill", "Haboo", "Becket", "Blak", "Cylas", EU
+"Ronin", "Toxic", "Stn", "Nookie", "Tark",   || -> 2 ||  eden  ||  "Uphill", "Haboo", "Becket", "Blak", "Cylas", EU
+"Uphill", "Titan", "Blak", "Diddy", "Nookie",   || <- 2 ||  angel  ||  "Ronin", "Toxic", "Becket", "Stn", "Tark", EU
+"Uphill", "Titan", "Blak", "Diddy", "Nookie",   || -> 4 ||  colony  ||  "Ronin", "Toxic", "Becket", "Stn", "Tark", EU
+"Uphill", "Titan", "Blak", "Diddy", "Nookie",   || <- 1 ||  glitch  ||  "Ronin", "Toxic", "Becket", "Stn", "Tark", EU
+"Blak", "Elytic", "Uphill", "Becket", "Toxic",   || <- 1 ||  boomtown  ||  "Zery", "Titan", "Ende", "Timo", "Diddy", EU
+"Blak", "Elytic", "Uphill", "Becket", "Toxic",   || <- 1 ||  exo  ||  "Zery", "Titan", "Ende", "Timo", "Diddy", EU
+"Blak", "Elytic", "Becket", "Uphill", "Toxic",   || <- 1 ||  boomtown  ||  "Zery", "Titan", "Diddy", "Timo", "Ende", EU
+"Blak", "Elytic", "Becket", "Uphill", "Toxic",   || <- 1 ||  exo  ||  "Zery", "Titan", "Diddy", "Timo", "Ende", EU
+"Blak", "Diddy", "Zery", "Ende", "Titan",   || <- 2 ||  drydock  ||  "Becket", "Toxic", "Timo", "Elytic", "Uphill", EU
+"Blak", "Diddy", "Zery", "Ende", "Titan",   || -> 1 ||  eden  ||  "Becket", "Toxic", "Timo", "Elytic", "Uphill", EU
+"Blak", "Diddy", "Zery", "Ende", "Titan",   || <- 2 ||  colony  ||  "Becket", "Toxic", "Timo", "Elytic", "Uphill", EU
+"Blak", "Titan", "Diddy", "Zery", "Elytic",   || <- 2 ||  angel  ||  "Uphill", "Toxic", "Haboo", "Stn", "Nookie", EU
+"Becket", "Titan", "Uphill", "Stn", "Nookie",   || <- 1 ||  glitch  ||  "Toxic", "Elytic", "Diddy", "Zery", "Ende", EU
+"Becket", "Titan", "Uphill", "Stn", "Nookie",   || <- 3 ||  boomtown  ||  "Toxic", "Elytic", "Diddy", "Zery", "Ende", EU
+"Becket", "M-kon", "Blak", "Zery", "Ronin",   || <- 1 ||  boomtown  ||  "Uphill", "Cylas", "Ende", "Stn", "Nookie", EU
+"Becket", "M-kon", "Blak", "Zery", "Ronin",   || <- 1 ||  exo  ||  "Uphill", "Cylas", "Ende", "Stn", "Nookie", EU
+"Uphill", "M-kon", "Cylas", "Stn", "Blak",   || -> 1 ||  eden  ||  "Becket", "Ende", "Nookie", "Zery", "Ronin", EU
+"Uphill", "M-kon", "Cylas", "Stn", "Blak",   || <- 1 ||  drydock  ||  "Becket", "Ende", "Nookie", "Zery", "Ronin", EU
+"Blak", "Toxic", "Stn", "Uphill", "M-kon",   || <- 5 ||  angel  ||  "Zery", "Becket", "Nookie", "Ronin", "Ende", EU
+"Blak", "Toxic", "Stn", "Uphill", "M-kon",   || <- 1 ||  colony  ||  "Zery", "Becket", "Nookie", "Ronin", "Ende", EU
+"Blak", "Nookie", "Ronin", "Uphill", "Elytic",   || <- 3 ||  glitch  ||  "Becket", "Stn", "Toxic", "Ende", "Timo", EU
+"Uphill", "Toxic", "Stn", "Nookie", "Timo",   || -> 1 ||  boomtown  ||  "Becket", "Elytic", "Foy", "Blak", "Ronin", EU
+"Uphill", "Toxic", "Stn", "Nookie", "Timo",   || <- 3 ||  exo  ||  "Becket", "Elytic", "Foy", "Blak", "Ronin", EU
+"Uphill", "Toxic", "Stn", "Nookie", "Timo",   || -> 1 ||  eden  ||  "Becket", "Elytic", "Foy", "Blak", "Ronin", EU
+"Titan", "Stn", "Blak", "Ronin", "Timo",   || <- 1 ||  exo  ||  "Diddy", "Elytic", "Uphill", "Foy", "Squishy", EU
+"Titan", "Stn", "Blak", "Ronin", "Timo",   || -> 1 ||  eden  ||  "Diddy", "Elytic", "Uphill", "Foy", "Squishy", EU
+"Titan", "Stn", "Blak", "Ronin", "Timo",   || <- 3 ||  drydock  ||  "Diddy", "Elytic", "Uphill", "Foy", "Squishy", EU
+"Blak", "Uphill", "Elytic", "Toxic", "Foy",   || <- 1 ||  angel  ||  "Timo", "Titan", "Stn", "Diddy", "Ronin", EU
+"Blak", "Uphill", "Elytic", "Toxic", "Foy",   || <- 1 ||  colony  ||  "Timo", "Titan", "Stn", "Diddy", "Ronin", EU
+"Stn", "Blak", "Ronin", "Timo", "Toxic",   || -> 1 ||  glitch  ||  "Becket", "Diddy", "Elytic", "Uphill", "Haboo", EU
+"Stn", "Blak", "Ronin", "Timo", "Toxic",   || <- 1 ||  exo  ||  "Becket", "Diddy", "Elytic", "Uphill", "Haboo", EU
+"Stn", "Blak", "Ronin", "Timo", "Toxic",   || -> 1 ||  glitch  ||  "Becket", "Diddy", "Elytic", "Uphill", "Haboo", EU
+"Stn", "Blak", "Ronin", "Timo", "Toxic",   || <- 1 ||  exo  ||  "Becket", "Diddy", "Elytic", "Uphill", "Haboo", EU
+"Stn", "Blak", "Ronin", "Timo", "Toxic",   || -> 2 ||  boomtown  ||  "Becket", "Diddy", "Elytic", "Uphill", "Haboo", EU
+"Becket", "Uphill", "Stn", "Bobby", "Dragon",   || <- 1 ||  exo  ||  "Diddy", "Elytic", "Haboo", "Zery", "Tark", NY
+"Diddy", "Uphill", "Foy", "Bobby", "Becket",   || <- 1 ||  angel  ||  "Toxic", "Tark", "Elytic", "Slime", "Stn", NY
+"Elytic", "Hero", "Diddy", "Stn", "Haboo",   || -> 1 ||  exo  ||  "M-kon", "Nookie", "Foy", "Uphill", "Becket", EU
+"Elytic", "Hero", "Diddy", "Stn", "Haboo",   || -> 1 ||  eden  ||  "M-kon", "Nookie", "Foy", "Uphill", "Becket", EU
+"Uphill", "Stn", "Zery", "Alex", "Titan",   || -> 2 ||  boomtown  ||  "Becket", "Smurf", "Elytic", "Blak", "Timo", EU
+"Becket", "Smurf", "Elytic", "Timo", "Blak",   || -> 1 ||  exo  ||  "Stn", "Zery", "Alex", "Diddy", "Uphill", EU
+"Becket", "Smurf", "Elytic", "Timo", "Blak",   || <- 1 ||  eden  ||  "Stn", "Zery", "Alex", "Diddy", "Uphill", EU
+"Becket", "Smurf", "Elytic", "Timo", "Blak",   || -> 2 ||  angel  ||  "Stn", "Zery", "Alex", "Diddy", "Uphill", EU
+"Elytic", "Blak", "Alex", "Diddy", "Timo",   || <- 4 ||  colony  ||  "Becket", "Smurf", "Uphill", "Stn", "Cylas", EU
+"Smurf", "Uphill", "Stn", "Cylas", "Haboo",   || <- 1 ||  boomtown  ||  "Sora", "Elytic", "Blak", "Diddy", "Timo", NY
+"Smurf", "Uphill", "Stn", "Cylas", "Haboo",   || -> 3 ||  glitch  ||  "Sora", "Elytic", "Blak", "Diddy", "Timo", NY
+"Smurf", "Uphill", "Stn", "Cylas", "Haboo",   || -> 1 ||  exo  ||  "Sora", "Elytic", "Blak", "Diddy", "Timo", NY
+"Smurf", "Uphill", "Stn", "Cylas", "Haboo",   || <- 1 ||  eden  ||  "Sora", "Elytic", "Blak", "Diddy", "Timo", NY
+"Becket", "Smurf", "Elytic", "Timo", "Blak",   || -> 2 ||  drydock  ||  "Stn", "Zery", "Alex", "Diddy", "Uphill", EU
+"Nookie", "Uphill", "Becket", "Hero", "Elytic",   || <- 1 ||  boomtown  ||  "Mitter", "Eppixx", "Blak", "Zery", "Cylas", EU
+"Mitter", "Blak", "Zery", "Hero", "Elytic",   || <- 1 ||  exo  ||  "Eppixx", "Haboo", "Uphill", "Becket", "Cylas", EU
+"Uphill", "Blak", "Becket", "Hero", "Cylas",   || <- 1 ||  eden  ||  "Mitter", "Eppixx", "Haboo", "Zery", "Elytic", EU
+"Uphill", "Blak", "Becket", "Hero", "Cylas",   || -> 6 ||  drydock  ||  "Mitter", "Eppixx", "Haboo", "Zery", "Elytic", EU
+"Mitter", "Becket", "Nookie", "Cylas", "Elytic",   || <- 2 ||  colony  ||  "Stn", "Haboo", "Uphill", "Blak", "Hero", EU
+"Mitter", "Uphill", "Becket", "Nookie", "Elytic",   || <- 1 ||  boomtown  ||  "Ronin", "Haboo", "Blak", "Zery", "M-kon", EU
+"Mitter", "Uphill", "Becket", "Nookie", "Elytic",   || -> 2 ||  exo  ||  "Ronin", "Haboo", "Blak", "Zery", "M-kon", EU
+"Mitter", "Uphill", "Becket", "Nookie", "Elytic",   || <- 1 ||  eden  ||  "Ronin", "Haboo", "Blak", "Zery", "M-kon", EU
+"Mitter", "Uphill", "Becket", "Nookie", "Elytic",   || -> 1 ||  angel  ||  "Ronin", "Haboo", "Blak", "Zery", "M-kon", EU
+"Mitter", "Uphill", "Becket", "Nookie", "Elytic",   || <- 2 ||  drydock  ||  "Ronin", "Haboo", "Blak", "Zery", "M-kon", EU
+"Mitter", "Ronin", "Becket", "M-kon", "Elytic",   || -> 4 ||  colony  ||  "Haboo", "Uphill", "Cylas", "Nookie", "Eppixx", EU
+"Diddy", "M-kon", "Timo", "Titan", "Blak",   || <- 1 ||  boomtown  ||  "Ronin", "Uphill", "Mitter", "Elytic", "Nookie", EU
+"Diddy", "M-kon", "Timo", "Titan", "Blak",   || -> 1 ||  exo  ||  "Ronin", "Uphill", "Mitter", "Elytic", "Nookie", EU
+"Diddy", "M-kon", "Timo", "Titan", "Blak",   || <- 1 ||  boomtown  ||  "Ronin", "Uphill", "Mitter", "Elytic", "Nookie", EU
+"Diddy", "M-kon", "Timo", "Titan", "Blak",   || -> 1 ||  exo  ||  "Ronin", "Uphill", "Mitter", "Elytic", "Nookie", EU
+"Diddy", "M-kon", "Timo", "Titan", "Blak",   || <- 1 ||  eden  ||  "Ronin", "Uphill", "Mitter", "Elytic", "Nookie", EU
+"Diddy", "M-kon", "Timo", "Alex", "Blak",   || <- 1 ||  boomtown  ||  "Ronin", "Uphill", "Elytic", "Nookie", "Haboo", EU
+"Diddy", "M-kon", "Timo", "Alex", "Blak",   || -> 1 ||  eden  ||  "Ronin", "Uphill", "Elytic", "Nookie", "Haboo", EU
+"Diddy", "M-kon", "Timo", "Alex", "Blak",   || <- 1 ||  exo  ||  "Ronin", "Uphill", "Elytic", "Nookie", "Haboo", EU
+"Uphill", "Timo", "Nookie", "Cylas", "Becket",   || -> 1 ||  boomtown  ||  "Diddy", "Stn", "M-kon", "Mitter", "Blak", EU
+"Stn", "Zto", "Elytic", "Nookie", "Mitter",   || <- 5 ||  exo  ||  "Diddy", "Uphill", "Cylas", "Becket", "Blak", EU
+"Diddy", "Stn", "Zto", "Nookie", "Titan",   || -> 1 ||  eden  ||  "Uphill", "Elytic", "Mitter", "Becket", "Blak", EU
+"Diddy", "Stn", "Uphill", "Slime", "Blak",   || -> 1 ||  drydock  ||  "Zto", "Elytic", "Nookie", "Titan", "Becket", NY
+"Dragon", "Elytic", "Suddi", "Tark", "Blak",   || -> 1 ||  boomtown  ||  "Lightman", "Stn", "Uphill", "Toxic", "M-kon", EU
+"Nookie", "Uphill", "Elytic", "Tark", "Blak",   || <- 1 ||  exo  ||  "Lightman", "Stn", "Toxic", "M-kon", "Suddi", EU
+"Nookie", "Uphill", "Elytic", "Tark", "Blak",   || <- 1 ||  eden  ||  "Lightman", "Stn", "Toxic", "M-kon", "Suddi", EU
+"Timo", "Zery", "M-kon", "Suddi", "Mitter",   || <- 1 ||  boomtown  ||  "Uphill", "Elytic", "Toxic", "Foy", "Blak", EU
+"Timo", "Zery", "M-kon", "Suddi", "Mitter",   || -> 1 ||  boomtown  ||  "Uphill", "Elytic", "Toxic", "Foy", "Blak", EU
+"Timo", "Zery", "M-kon", "Suddi", "Mitter",   || <- 1 ||  exo  ||  "Uphill", "Elytic", "Toxic", "Foy", "Blak", EU
+"Timo", "Zery", "M-kon", "Suddi", "Mitter",   || -> 1 ||  eden  ||  "Uphill", "Elytic", "Toxic", "Foy", "Blak", EU
+"Tark", "Elytic", "Toxic", "Haboo", "Blak",   || -> 1 ||  boomtown  ||  "Sora", "Alex", "Nookie", "Suddi", "Mitter", EU
+"Tark", "Elytic", "Toxic", "Haboo", "Blak",   || <- 1 ||  eden  ||  "Sora", "Alex", "Nookie", "Suddi", "Mitter", EU
+"Tark", "Elytic", "Toxic", "Haboo", "Blak",   || -> 3 ||  exo  ||  "Sora", "Alex", "Nookie", "Suddi", "Mitter", EU
+"Sora", "Elytic", "Toxic", "Haboo", "Blak",   || -> 2 ||  angel  ||  "Stn", "Tark", "Nookie", "Suddi", "Mitter", EU
+"Sora", "Elytic", "Toxic", "Haboo", "Blak",   || <- 2 ||  drydock  ||  "Stn", "Tark", "Nookie", "Suddi", "Mitter", EU
+"Blak", "Haboo", "Elytic", "M-kon", "Toxic",   || <- 5 ||  colony  ||  "Stn", "Suddi", "Nookie", "Ehkho", "Mitter", NY
+"Stn", "Ehkho", "Grim", "Timo", "Elytic",   || <- 1 ||  boomtown  ||  "Haboo", "Ronin", "Toxic", "Uphill", "Blak", EU
+"Foy", "Ronin", "Toxic", "Timo", "Elytic",   || <- 5 ||  exo  ||  "Haboo", "Ehkho", "Grim", "Uphill", "Blak", EU
+"Foy", "Haboo", "Grim", "Timo", "Uphill",   || <- 2 ||  eden  ||  "Ehkho", "Ronin", "Toxic", "Blak", "Elytic", EU
+"Foy", "Haboo", "Grim", "Timo", "Uphill",   || -> 1 ||  drydock  ||  "Ehkho", "Ronin", "Toxic", "Blak", "Elytic", EU
+"Foy", "Haboo", "Grim", "Timo", "Uphill",   || <- 2 ||  eden  ||  "Ehkho", "Ronin", "Toxic", "Blak", "Elytic", EU
+"Foy", "Haboo", "Grim", "Timo", "Uphill",   || <- 2 ||  eden  ||  "Ehkho", "Ronin", "Toxic", "Blak", "Elytic", EU
+"Foy", "Haboo", "Grim", "Timo", "Uphill",   || -> 1 ||  drydock  ||  "Ehkho", "Ronin", "Toxic", "Blak", "Elytic", EU
+"Foy", "Haboo", "Grim", "Timo", "Uphill",   || <- 3 ||  angel  ||  "Ehkho", "Ronin", "Toxic", "Blak", "Elytic", EU
+"Mitter", "Alex", "Diddy", "Uphill", "Zery",   || -> 1 ||  boomtown  ||  "Naicrez", "Stn", "Ronin", "Cylas", "Blak", EU
+"Mitter", "Alex", "Diddy", "Uphill", "Zery",   || -> 2 ||  exo  ||  "Naicrez", "Stn", "Ronin", "Cylas", "Blak", EU
+"Naicrez", "Stn", "Mitter", "Alex", "Zery",   || <- 1 ||  eden  ||  "Ronin", "Timo", "Diddy", "Uphill", "Blak", EU
+"Naicrez", "Diddy", "Uphill", "Blak", "Zery",   || <- 5 ||  drydock  ||  "Stn", "Suddi", "Mitter", "Timo", "Alex", EU
+"Naicrez", "Diddy", "Uphill", "Blak", "Zery",   || <- 3 ||  angel  ||  "Stn", "Suddi", "Mitter", "Timo", "Alex", EU
+"Stn", "Mitter", "Alex", "Uphill", "Blak",   || -> 1 ||  colony  ||  "Naicrez", "Suddi", "Timo", "Diddy", "Zery", EU
+"Stn", "Mitter", "Alex", "Uphill", "Blak",   || -> 1 ||  glitch  ||  "Naicrez", "Suddi", "Timo", "Diddy", "Zery", EU
+"Cylas", "Foy", "Becket", "Zery", "M-kon",   || -> 1 ||  exo  ||  "Naicrez", "Stn", "Suddi", "Uphill", "Blak", EU
+"Cylas", "Foy", "Becket", "Zery", "M-kon",   || -> 0 ||  eden  ||  "Naicrez", "Stn", "Suddi", "Uphill", "Blak", EU
+"Cylas", "Foy", "Becket", "Zery", "M-kon",   || -> 0 ||  drydock  ||  "Naicrez", "Stn", "Suddi", "Uphill", "Blak", EU
+"Cylas", "Foy", "Becket", "Zery", "M-kon",   || <- 0 ||  boomtown  ||  "Naicrez", "Stn", "Suddi", "Uphill", "Blak", EU
+"Nookie", "Timo", "Mitter", "Uphill", "Diddy",   || <- 0 ||  boomtown  ||  "Naicrez", "Stn", "Toxic", "Smurf", "Blak", EU
+"Nookie", "Timo", "Mitter", "Uphill", "Diddy",   || <- 3 ||  exo  ||  "Naicrez", "Stn", "Toxic", "Smurf", "Blak", EU
+"Nookie", "Timo", "Mitter", "Uphill", "Diddy",   || <- 2 ||  eden  ||  "Naicrez", "Stn", "Toxic", "Smurf", "Blak", EU
+"Naicrez", "Suddi", "Hero", "Diddy", "Haboo",   || <- 0 ||  boomtown  ||  "Alex", "Toxic", "Mitter", "Uphill", "Blak", EU
+"Naicrez", "Suddi", "Hero", "Diddy", "Haboo",   || <- 2 ||  exo  ||  "Alex", "Toxic", "Mitter", "Uphill", "Blak", EU
+"Naicrez", "Suddi", "Hero", "Diddy", "Haboo",   || <- 1 ||  eden  ||  "Alex", "Toxic", "Mitter", "Uphill", "Blak", EU
+"Naicrez", "Alex", "Suddi", "Diddy", "Haboo",   || <- 3 ||  drydock  ||  "Toxic", "Nookie", "Mitter", "Uphill", "Blak", EU
+"Toxic", "Nookie", "Diddy", "Uphill", "Blak",   || -> 5 ||  angel  ||  "Naicrez", "Alex", "Suddi", "Zery", "Haboo", EU
+"Toxic", "Nookie", "Diddy", "Uphill", "Blak",   || -> 1 ||  colony  ||  "Naicrez", "Alex", "Suddi", "Zery", "Haboo", EU
+"Naicrez", "M-kon", "Diddy", "Zery", "Haboo",   || <- 0 ||  glitch  ||  "Suddi", "Toxic", "Nookie", "Uphill", "Blak", EU
+"Alex", "Ronin", "Zery", "Timo", "Toxic",   || <- 0 ||  boomtown  ||  "Haboo", "Elytic", "Hero", "Suddi", "Uphill", EU
+"Alex", "Ronin", "Zery", "Timo", "Toxic",   || -> 1 ||  exo  ||  "Haboo", "Elytic", "Hero", "Suddi", "Uphill", EU
+"Toxic", "Ronin", "Uphill", "Blak", "Haboo",   || <- 1 ||  boomtown  ||  "Schmogle", "M-kon", "Suddi", "Elytic", "Ehkho", EU
+"Schmogle", "Hero", "Elytic", "Uphill", "Haboo",   || -> 2 ||  boomtown  ||  "Suddi", "Toxic", "Ronin", "Naicrez", "Pano", EU
+"Schmogle", "Hero", "Elytic", "Uphill", "Haboo",   || -> 4 ||  exo  ||  "Suddi", "Toxic", "Ronin", "Naicrez", "Pano", EU
+"Ronin", "Naicrez", "Uphill", "Pano", "Haboo",   || -> 2 ||  eden  ||  "Schmogle", "Hero", "Suddi", "Toxic", "Elytic", EU
+"Ronin", "Naicrez", "Uphill", "Pano", "Haboo",   || <- 0 ||  drydock  ||  "Schmogle", "Hero", "Suddi", "Toxic", "Elytic", EU
+"Suddi", "Toxic", "Ronin", "Pano", "Haboo",   || -> 1 ||  angel  ||  "Blak", "Hero", "Elytic", "Naicrez", "Uphill", EU
+"Suddi", "Toxic", "Ronin", "Pano", "Haboo",   || <- 5 ||  glitch  ||  "Blak", "Hero", "Elytic", "Naicrez", "Uphill", EU
+"Suddi", "Toxic", "Ronin", "Pano", "Haboo",   || -> 2 ||  colony  ||  "Blak", "Hero", "Elytic", "Naicrez", "Uphill", EU
+"Suddi", "Toxic", "Ronin", "Pano", "Haboo",   || -> 0 ||  boomtown  ||  "Blak", "Hero", "Elytic", "Naicrez", "Uphill", EU
+"Blak", "Hero", "Suddi", "Toxic", "Uphill",   || -> 1 ||  exo  ||  "Stn", "Ronin", "Naicrez", "Pano", "Haboo", EU
+"Suddi", "Toxic", "Ronin", "Pano", "Haboo",   || -> 5 ||  glitch  ||  "Blak", "Elytic", "Hero", "Naicrez", "Uphill", EU
+"Suddi", "Toxic", "Ronin", "Pano", "Haboo",   || <- 2 ||  angel  ||  "Blak", "Elytic", "Hero", "Naicrez", "Uphill", EU
+"Suddi", "Toxic", "Ronin", "Pano", "Haboo",   || <- 2 ||  colony  ||  "Blak", "Elytic", "Hero", "Naicrez", "Uphill", EU
+"Suddi", "Toxic", "Ronin", "Pano", "Haboo",   || <- 0 ||  boomtown  ||  "Blak", "Elytic", "Hero", "Naicrez", "Uphill", EU
+"Blak", "Uphill", "Suddi", "Toxic", "Hero",   || -> 1 ||  exo  ||  "Ronin", "Naicrez", "Stn", "Pano", "Haboo", EU
+"Blak", "Uphill", "Haboo", "Naicrez", "Diddy",   || -> 1 ||  eden  ||  "Ronin", "Toxic", "Stn", "Pano", "Suddi", EU
+"Foy", "Titan", "Diddy", "Uphill", "Timo",   || -> 1 ||  boomtown  ||  "Schmoogle", "Suddi", "Toxic", "Ronin", "Haboo", EU
+"Schmoogle", "Titan", "Ronin", "Diddy", "Haboo",   || <- 1 ||  boomtown  ||  "Foy", "Suddi", "Toxic", "Uphill", "Timo", NY
+"Schmoogle", "Titan", "Ronin", "Diddy", "Haboo",   || -> 3 ||  exo  ||  "Foy", "Suddi", "Toxic", "Uphill", "Timo", NY
+"Uphill", "Foy", "Suddi", "Toxic", "Timo",   || -> 1 ||  eden  ||  "Ronin", "Diddy", "Schmoogle", "Titan", "Haboo", NY
+"Uphill", "Foy", "Suddi", "Toxic", "Timo",   || <- 2 ||  eden  ||  "Ronin", "Diddy", "Schmoogle", "Titan", "Haboo", NY
+"Uphill", "Foy", "Diddy", "Titan", "Timo",   || <- 0 ||  drydock  ||  "Ronin", "Suddi", "Schmoogle", "Toxic", "Haboo", NY
+"Uphill", "Foy", "Diddy", "Titan", "Timo",   || <- 0 ||  drydock  ||  "Ronin", "Suddi", "Schmoogle", "Toxic", "Haboo", NY
+"Uphill", "Foy", "Suddi", "Toxic", "Timo",   || <- 2 ||  eden  ||  "Ronin", "Diddy", "Schmoogle", "Titan", "Haboo", NY
+"Uphill", "Haboo", "Zery", "Mitter", "Timo",   || <- 1 ||  boomtown  ||  "Toxic", "Suddi", "Blak", "Titan", "Naicrez", EU
+"Uphill", "Haboo", "Zery", "Mitter", "Timo",   || <- 1 ||  exo  ||  "Toxic", "Suddi", "Blak", "Titan", "Naicrez", EU
+"Uphill", "Haboo", "Zery", "Hero", "Timo",   || -> 5 ||  drydock  ||  "Toxic", "Suddi", "Blak", "Ronin", "Naicrez", EU
+"Uphill", "Haboo", "Zery", "Hero", "Timo",   || <- 1 ||  eden  ||  "Toxic", "Suddi", "Blak", "Ronin", "Naicrez", EU
+"Naicrez", "Suddi", "Uphill", "Ronin", "Haboo",   || -> 3 ||  angel  ||  "Blak", "Zery", "Toxic", "Timo", "Hero", EU
+"Naicrez", "Suddi", "Uphill", "Ronin", "Haboo",   || <- 0 ||  colony  ||  "Blak", "Zery", "Toxic", "Timo", "Hero", EU
+"Blak", "Naicrez", "Zery", "Toxic", "Uphill",   || <- 1 ||  boomtown  ||  "Timo", "Alex", "Elytic", "Ronin", "Haboo", EU
+"Blak", "Naicrez", "Zery", "Toxic", "Uphill",   || -> 1 ||  exo  ||  "Timo", "Alex", "Elytic", "Ronin", "Haboo", EU
+"Blak", "Naicrez", "Zery", "Toxic", "Uphill",   || <- 3 ||  eden  ||  "Timo", "Alex", "Elytic", "Ronin", "Haboo", EU
+"Blak", "Toxic", "Timo", "Elytic", "Uphill",   || <- 2 ||  drydock  ||  "Naicrez", "Zery", "Foy", "Ronin", "Haboo", EU
+"Naicrez", "Foy", "Stn", "M-kon", "Haboo",   || <- 1 ||  eden  ||  "Mitter", "Zery", "Toxic", "Nookie", "Uphill", EU
+"Mitter", "Timo", "Nookie", "Uphill", "M-kon",   || -> 0 ||  drydock  ||  "Naicrez", "Toxic", "Foy", "Stn", "Haboo", EU
+"Naicrez", "Nookie", "Foy", "Blak", "Haboo",   || <- 5 ||  angel  ||  "Suddi", "Alex", "Toxic", "Stn", "Uphill", EU
+"Naicrez", "Nookie", "Foy", "Blak", "Haboo",   || <- 2 ||  colony  ||  "Suddi", "Alex", "Toxic", "Stn", "Uphill", EU
+"Schmoogle", "Naicrez", "Haboo", "Blak", "Zery",   || -> 1 ||  boomtown  ||  "Becket", "Toxic", "Foy", "Stn", "Uphill", EU
+"Schmoogle", "Naicrez", "Haboo", "Blak", "Zery",   || <- 4 ||  exo  ||  "Becket", "Toxic", "Foy", "Stn", "Uphill", EU
+"Schmoogle", "Naicrez", "Haboo", "Blak", "Zery",   || -> 2 ||  eden  ||  "Becket", "Toxic", "Foy", "Stn", "Uphill", EU
+"Toxic", "Stn", "Uphill", "Blak", "Mitter",   || -> 2 ||  drydock  ||  "Schmoogle", "Naicrez", "Becket", "Haboo", "Foy", EU
+"Toxic", "Stn", "Uphill", "Blak", "Mitter",   || -> 1 ||  angel  ||  "Schmoogle", "Naicrez", "Becket", "Haboo", "Foy", EU
+"Alex", "Diddy", "Naicrez", "Blak", "Zery",   || <- 1 ||  boomtown  ||  "Becket", "Haboo", "Foy", "Stn", "Uphill", EU
+"Toxic", "Becket", "Uphill", "Blak", "Zery",   || -> 0 ||  eden  ||  "Diddy", "Naicrez", "Haboo", "Foy", "Stn", EU
+"Toxic", "Diddy", "Blak", "Naicrez", "Zery",   || -> 0 ||  eden  ||  "Foy", "Stn", "Uphill", "Becket", "Haboo", EU
+"Toxic", "Diddy", "Blak", "Naicrez", "Zery",   || -> 1 ||  drydock  ||  "Foy", "Stn", "Uphill", "Becket", "Haboo", EU
+"Toxic", "Uphill", "Naicrez", "Schmoogle", "Zery",   || -> 1 ||  boomtown  ||  "Lightman", "Ronin", "Stn", "Mitter", "Blak", EU
+"Lightman", "Schmoogle", "Stn", "Haboo", "Blak",   || -> 1 ||  exo  ||  "Toxic", "Uphill", "Naicrez", "Ronin", "Zery", EU
+"Lightman", "Schmoogle", "Stn", "Haboo", "Blak",   || <- 1 ||  eden  ||  "Toxic", "Uphill", "Naicrez", "Ronin", "Zery", EU
+"Toxic", "Zery", "Mitter", "Naicrez", "Ronin",   || -> 1 ||  angel  ||  "Schmoogle", "Stn", "Haboo", "Blak", "Lightman", EU
+"Toxic", "Ronin", "Schmoogle", "Suddi", "Zery",   || <- 1 ||  colony  ||  "Lightman", "Mitter", "Naicrez", "Stn", "Blak", EU
+"Ronin", "Schmoogle", "Stn", "Uphill", "Zery",   || -> 2 ||  boomtown  ||  "Toxic", "Lightman", "Foy", "Naicrez", "Suddi", EU
+"Ronin", "Schmoogle", "Stn", "Uphill", "Zery",   || -> 2 ||  exo  ||  "Toxic", "Lightman", "Foy", "Naicrez", "Suddi", EU
+"Ronin", "Schmoogle", "Stn", "Uphill", "Zery",   || <- 1 ||  eden  ||  "Toxic", "Lightman", "Foy", "Naicrez", "Suddi", EU
+"Ronin", "Schmoogle", "Stn", "Uphill", "Zery",   || -> 3 ||  drydock  ||  "Toxic", "Lightman", "Foy", "Naicrez", "Suddi", EU
+"Toxic", "Lightman", "Naicrez", "Becket", "Schmoogle",   || -> 2 ||  colony  ||  "Slime", "Ronin", "Blak", "Haboo", "Uphill", EU
+"Lightman", "Naicrez", "Haboo", "Uphill", "Timo",   || <- 1 ||  boomtown  ||  "Toxic", "Slime", "Ronin", "Becket", "Blak", EU
+"Lightman", "Naicrez", "Haboo", "Uphill", "Timo",   || <- 1 ||  exo  ||  "Toxic", "Slime", "Ronin", "Becket", "Blak", EU
+"Lightman", "Becket", "Haboo", "Uphill", "Diddy",   || -> 2 ||  boomtown  ||  "Toxic", "Sora", "Foy", "Zery", "Blak", NY
+"Timo", "Becket", "Haboo", "Uphill", "Diddy",   || <- 1 ||  exo  ||  "Toxic", "Suddi", "Sora", "Foy", "Blak", EU
+"Timo", "Becket", "Haboo", "Uphill", "Diddy",   || -> 1 ||  angel  ||  "Toxic", "Suddi", "Sora", "Foy", "Blak", EU
+"Timo", "Becket", "Haboo", "Uphill", "Diddy",   || <- 0 ||  eden  ||  "Toxic", "Suddi", "Sora", "Foy", "Blak", EU
+"Timo", "Becket", "Haboo", "Uphill", "Diddy",   || <- 0 ||  colony  ||  "Toxic", "Suddi", "Sora", "Foy", "Blak", EU
+"Kilg", "Lightman", "Elytic", "Blak", "Zery",   || -> 1 ||  boomtown  ||  "Toxic", "Timo", "Becket", "Uphill", "Bobby", EU
+"Toxic", "Kilg", "Becket", "Blak", "Zery",   || <- 3 ||  exo  ||  "Alex", "Elytic", "Timo", "Uphill", "Bobby", EU
+"Alex", "Elytic", "Becket", "Uphill", "Bobby",   || <- 3 ||  eden  ||  "Toxic", "Kilg", "Timo", "Blak", "Zery", EU
+"Alex", "Elytic", "Becket", "Uphill", "Bobby",   || -> 0 ||  drydock  ||  "Toxic", "Kilg", "Timo", "Blak", "Zery", EU
+"Toxic", "Timo", "Foy", "Zery", "Uphill",   || <- 0 ||  glitch  ||  "M-kon", "Titan", "Elytic", "Becket", "Bobby", EU
+"Kilg", "Becket", "Blak", "Uphill", "Hero",   || -> 1 ||  boomtown  ||  "Noface", "M-kon", "Mitter", "Ronin", "Zery", EU
+"Kilg", "Becket", "Blak", "Uphill", "Hero",   || -> 1 ||  exo  ||  "Noface", "M-kon", "Mitter", "Ronin", "Zery", EU
+"Kilg", "Becket", "Blak", "Uphill", "Hero",   || -> 1 ||  eden  ||  "Noface", "M-kon", "Mitter", "Ronin", "Zery", EU
+"Noface", "M-kon", "Nookie", "Ronin", "Blak",   || -> 4 ||  drydock  ||  "Kilg", "Becket", "Zery", "Uphill", "Elytic", EU
+"Mitter", "Blak", "Suddi", "Uphill", "Elytic",   || -> 2 ||  boomtown  ||  "Timo", "Bobby", "Diddy", "Toxic", "Becket", EU
+"Mitter", "Blak", "Suddi", "Uphill", "Elytic",   || -> 2 ||  boomtown  ||  "Timo", "Bobby", "Diddy", "Toxic", "Becket", EU
+"Mitter", "Blak", "Suddi", "Uphill", "Elytic",   || <- 1 ||  exo  ||  "Timo", "Bobby", "Diddy", "Toxic", "Becket", EU
+"Mitter", "Blak", "Suddi", "Uphill", "Elytic",   || -> 3 ||  eden  ||  "Timo", "Bobby", "Diddy", "Toxic", "Becket", EU
+"Mitter", "Blak", "Suddi", "Uphill", "Elytic",   || <- 1 ||  drydock  ||  "Timo", "Bobby", "Diddy", "Toxic", "Becket", EU
+"Elytic", "Zery", "Mitter", "Eppixx", "Stn",   || <- 2 ||  colony  ||  "Suddi", "Becket", "Diddy", "Timo", "Uphill", EU
+"Elytic", "Zery", "Mitter", "Eppixx", "Stn",   || <- 2 ||  colony  ||  "Suddi", "Becket", "Diddy", "Timo", "Uphill", EU
+"Elytic", "Zery", "Mitter", "Eppixx", "Stn",   || -> 0 ||  glitch  ||  "Suddi", "Becket", "Diddy", "Timo", "Uphill", EU
+"Elytic", "Zery", "Mitter", "Eppixx", "Stn",   || -> 1 ||  boomtown  ||  "Suddi", "Becket", "Diddy", "Timo", "Uphill", EU
+"Elytic", "Nookie", "Mitter", "Becket", "Stn",   || <- 1 ||  exo  ||  "Suddi", "Zery", "Diddy", "Timo", "Uphill", EU
+"Elytic", "Nookie", "Mitter", "Becket", "Stn",   || -> 1 ||  drydock  ||  "Suddi", "Zery", "Diddy", "Timo", "Uphill", EU
+"Elytic", "Nookie", "Mitter", "Becket", "Stn",   || <- 2 ||  eden  ||  "Suddi", "Zery", "Diddy", "Timo", "Uphill", EU
+"Suddi", "Stn", "Nookie", "Diddy", "Zim",   || -> 1 ||  drydock  ||  "Becket", "Blak", "Timo", "Uphill", "Zery", EU
+"Timo", "Diddy", "Bobby", "Alex", "Elytic",   || -> 3 ||  boomtown  ||  "Slime", "Becket", "Zery", "Mitter", "Suddi", NY
+"Timo", "Diddy", "Bobby", "Alex", "Elytic",   || <- 2 ||  exo  ||  "Slime", "Becket", "Zery", "Mitter", "Suddi", NY
+"Timo", "Diddy", "Bobby", "Alex", "Elytic",   || -> 2 ||  eden  ||  "Slime", "Becket", "Zery", "Mitter", "Suddi", NY
+"Slime", "Diddy", "Bobby", "Suddi", "Elytic",   || <- 4 ||  drydock  ||  "Timo", "Becket", "Zery", "Mitter", "Blak", NY
+"Slime", "Diddy", "Bobby", "Suddi", "Elytic",   || -> 2 ||  angel  ||  "Timo", "Becket", "Zery", "Mitter", "Blak", NY
+"Slime", "Diddy", "Bobby", "Suddi", "Elytic",   || <- 2 ||  colony  ||  "Timo", "Becket", "Zery", "Mitter", "Blak", NY
+"Slime", "Diddy", "Bobby", "Suddi", "Elytic",   || -> 1 ||  glitch  ||  "Timo", "Becket", "Zery", "Mitter", "Blak", NY
+"Suddi", "Timo", "Becket", "Elytic", "Sora",   || <- 1 ||  boomtown  ||  "Titan", "Bobby", "Diddy", "Haboo", "Zery", NY
+"Suddi", "Timo", "Becket", "Elytic", "Sora",   || <- 1 ||  exo  ||  "Titan", "Bobby", "Diddy", "Haboo", "Zery", NY
+"Suddi", "Timo", "Becket", "Elytic", "Sora",   || <- 1 ||  eden  ||  "Titan", "Bobby", "Diddy", "Haboo", "Zery", NY
+"Suddi", "Nookie", "Becket", "Elytic", "Sora",   || -> 3 ||  colony  ||  "Timo", "Bobby", "Diddy", "Squishy", "Zery", NY
+"Suddi", "Nookie", "Becket", "Elytic", "Sora",   || <- 1 ||  angel  ||  "Timo", "Bobby", "Diddy", "Squishy", "Zery", NY
+"Suddi", "Nookie", "Becket", "Elytic", "Uphill",   || -> 1 ||  glitch  ||  "Timo", "Bobby", "Diddy", "Squishy", "Zery", NY
+"Tark", "Becket", "Foy", "Uphill", "Ronin",   || <- 2 ||  boomtown  ||  "Daire", "Zery", "Titan", "Mitter", "Blak", NY
+"Daire", "Zery", "Mitter", "Blak", "Ronin",   || <- 2 ||  exo  ||  "Tark", "Becket", "Bobby", "Titan", "Uphill", NY
+"Daire", "Zery", "Mitter", "Blak", "Ronin",   || -> 2 ||  eden  ||  "Tark", "Becket", "Bobby", "Titan", "Uphill", NY
+"Zery", "Ruski", "Uphill", "Blak", "Ronin",   || -> 3 ||  drydock  ||  "Toxic", "Daire", "Becket", "Bobby", "Mitter", EU
+"Suddi", "Grim", "Becket", "Mitter", "Uphill",   || <- 1 ||  boomtown  ||  "Timo", "Squishy", "Titan", "Zery", "Daire", EU
+"Suddi", "Grim", "Becket", "Mitter", "Uphill",   || -> 1 ||  exo  ||  "Timo", "Squishy", "Titan", "Zery", "Daire", EU
+"Suddi", "Timo", "Toxic", "Elytic", "Uphill",   || <- 3 ||  boomtown  ||  "Becket", "Mitter", "Titan", "Zery", "Foy", EU
+"Suddi", "Timo", "Toxic", "Elytic", "Uphill",   || <- 4 ||  exo  ||  "Becket", "Mitter", "Titan", "Zery", "Foy", EU
+"Suddi", "Timo", "Noface", "Elytic", "Uphill",   || -> 2 ||  eden  ||  "Becket", "Mitter", "Toxic", "Zery", "Foy", EU
+"Suddi", "Timo", "Noface", "Elytic", "Uphill",   || -> 1 ||  drydock  ||  "Becket", "Mitter", "Toxic", "Zery", "Foy", EU
+"Toxic", "Foy", "Becket", "Naicrez", "Zery",   || -> 4 ||  colony  ||  "Timo", "Elytic", "Diddy", "Blak", "Suddi", EU
+"Toxic", "Foy", "Zery", "Blak", "Suddi",   || <- 0 ||  angel  ||  "Becket", "Naicrez", "Timo", "Elytic", "Diddy", EU
+"Toxic", "Foy", "Zery", "Blak", "Suddi",   || <- 3 ||  glitch  ||  "Becket", "Naicrez", "Timo", "Elytic", "Diddy", EU
+"Toxic", "Timo", "Elytic", "Zery", "Blak",   || -> 1 ||  boomtown  ||  "Foy", "Becket", "Naicrez", "Diddy", "Suddi", EU
+"Toxic", "Diddy", "Becket", "Elytic", "Timo",   || <- 1 ||  boomtown  ||  "Haboo", "Foy", "Naicrez", "Blak", "Suddi", EU
+"Toxic", "Diddy", "Becket", "Elytic", "Timo",   || -> 0 ||  exo  ||  "Haboo", "Foy", "Naicrez", "Blak", "Suddi", EU
+"Toxic", "Diddy", "Becket", "Elytic", "Timo",   || <- 1 ||  eden  ||  "Haboo", "Foy", "Naicrez", "Blak", "Suddi", EU
+"Toxic", "Diddy", "Becket", "Elytic", "Timo",   || -> 1 ||  drydock  ||  "Haboo", "Foy", "Naicrez", "Blak", "Suddi", EU
+"Uphill", "Zery", "Becket", "Elytic", "Naicrez",   || -> 0 ||  eden  ||  "Toxic", "Diddy", "Mitter", "Stn", "Suddi", EU
+"Uphill", "Zery", "Becket", "Elytic", "Naicrez",   || <- 0 ||  boomtown  ||  "Toxic", "Diddy", "Mitter", "Stn", "Suddi", EU
+"Uphill", "Zery", "Becket", "Elytic", "Naicrez",   || -> 0 ||  exo  ||  "Toxic", "Diddy", "Mitter", "Stn", "Suddi", EU
+"Uphill", "Zery", "Becket", "Elytic", "Naicrez",   || <- 0 ||  drydock  ||  "Toxic", "Diddy", "Mitter", "Stn", "Suddi", EU
+"Uphill", "Zery", "Becket", "Elytic", "Naicrez",   || -> 1 ||  eden  ||  "Toxic", "Diddy", "Mitter", "Stn", "Suddi", EU
+"Toxic", "Squishy", "Naicrez", "Nookie", "Blak",   || -> 2 ||  exo  ||  "Becket", "Timo", "Bobby", "Titan", "Suddi", EU
+"Skitts", "Squishy", "Becket", "Naicrez", "Timo",   || -> 2 ||  drydock  ||  "Nookie", "Bobby", "Toxic", "Blak", "Suddi", EU
+"Skitts", "Squishy", "Becket", "Naicrez", "Timo",   || -> 3 ||  angel  ||  "Nookie", "Bobby", "Toxic", "Blak", "Suddi", EU
+"Skitts", "Squishy", "Becket", "Naicrez", "Timo",   || <- 0 ||  eden  ||  "Nookie", "Bobby", "Toxic", "Blak", "Suddi", EU
+"Skitts", "Squishy", "Becket", "Naicrez", "Timo",   || -> 2 ||  drydock  ||  "Nookie", "Bobby", "Toxic", "Blak", "Suddi", EU
+"Skitts", "Squishy", "Becket", "Naicrez", "Timo",   || <- 0 ||  eden  ||  "Nookie", "Bobby", "Toxic", "Blak", "Suddi", EU
+"Skitts", "Squishy", "Becket", "Naicrez", "Timo",   || -> 3 ||  angel  ||  "Nookie", "Bobby", "Toxic", "Blak", "Suddi", EU
+"Toxic", "Squishy", "Becket", "Bobby", "Timo",   || -> 1 ||  glitch  ||  "Nookie", "Naicrez", "Skitts", "Blak", "Suddi", EU
+"Toxic", "Squishy", "Becket", "Bobby", "Timo",   || <- 1 ||  colony  ||  "Nookie", "Naicrez", "Skitts", "Blak", "Suddi", EU
+"Squishy", "Zery", "Naicrez", "Bobby", "Blak",   || -> 1 ||  boomtown  ||  "Toxic", "Haboo", "Mitter", "Becket", "Suddi", EU
+"Timo", "Squishy", "Zery", "Naicrez", "Bobby",   || -> 2 ||  exo  ||  "Mitter", "Haboo", "Becket", "Toxic", "Suddi", EU
+"Timo", "Squishy", "Zery", "Naicrez", "Bobby",   || -> 1 ||  eden  ||  "Mitter", "Haboo", "Becket", "Toxic", "Suddi", EU
+"Toxic", "Squishy", "Haboo", "Bobby", "Becket",   || -> 0 ||  drydock  ||  "Zery", "Naicrez", "Mitter", "Timo", "Suddi", EU
+"Toxic", "Squishy", "Haboo", "Bobby", "Becket",   || -> 1 ||  angel  ||  "Zery", "Naicrez", "Mitter", "Timo", "Suddi", EU
+"Toxic", "Daire", "Bobby", "Becket", "Zto",   || -> 3 ||  exo  ||  "Squishy", "Blak", "Naicrez", "Skitts", "Timo", EU
+"Toxic", "Daire", "Bobby", "Becket", "Zto",   || -> 1 ||  eden  ||  "Squishy", "Blak", "Naicrez", "Skitts", "Timo", EU
+"Toxic", "Daire", "Bobby", "Becket", "Zto",   || -> 4 ||  drydock  ||  "Squishy", "Blak", "Naicrez", "Skitts", "Timo", EU
+"Toxic", "Squishy", "Blak", "Skitts", "Becket",   || -> 5 ||  angel  ||  "Naicrez", "Zery", "Bobby", "Timo", "Zto", EU
+"Toxic", "Squishy", "Blak", "Skitts", "Becket",   || <- 1 ||  colony  ||  "Naicrez", "Zery", "Bobby", "Timo", "Zto", EU
